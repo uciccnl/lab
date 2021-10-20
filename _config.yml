@@ -5,7 +5,7 @@ url: "https://uciccnl.github.io/lab"
 
 paginate: 5
 plugins: [jekyll-paginate]
-paginate_path: "news/page:num"
+paginate_path: "/lab/news/page:num"
 
 permalink: pretty
 markdown: kramdown
