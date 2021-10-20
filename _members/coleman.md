@@ -1,18 +1,18 @@
 ---
-name: Angelika Arada
+name: Briana Coleman
 startdate: 2021-05-03
 enddate:
-image: /lab/static/img/members/arada.JPG #365 x 365 pixels, 72 dpi, JPG
-altimage: /lab/static/img/members/arada_pb.jpg #365 x 365 pixels, 72 dpi, JPG
-position: Junior Specialist
+image: /lab/static/img/members/coleman.jpeg #365 x 365 pixels, 72 dpi, JPG
+altimage: /lab/static/img/members/coleman.jpeg #365 x 365 pixels, 72 dpi, JPG
+position: Senior, Campuswide Honors program
 subsequent:
-pronouns: she/her/hers
-email:  angelika.arada (at) ucsf.edu
+pronouns: she/her
+email:  #angelika.arada (at) ucsf.edu
 scholar:
 website:
 UCSF:
 twitter:
-linkedin: angelikaarada
+linkedin: #angelikaarada
 github:
 orcid:
 description: "Angel graduated from San Francisco State University with a Bachelor’s degree in Biochemistry. During undergrad, she worked in [Dr. Misty Kuhn’s](https://www.kuhnlaboratory.com) lab to conduct crystallization trials of uncharacterized Gcn5-related N-acetyltransferases (GNATs) from *Pseudomonas aeruginosa*.
