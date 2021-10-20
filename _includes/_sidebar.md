@@ -3,7 +3,7 @@ title: Contact
 ---
 
 
-### Contact the Fraser Lab
+### Contact the CCN Lab
 
 Aaron Bornstein, Ph.D.
 Assistant Professor
