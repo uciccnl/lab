@@ -7,7 +7,7 @@ group: home
 # Welcome to the Computational Cognitive Neuroscience Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Cognitive Sciences](https://www.cogsci.uci.edu/) and the Center for the Neurobiology of Learning and Memory (https://cnlm.uci.edu/).
+We are part of the [Department of Cognitive Sciences](https://www.cogsci.uci.edu/) and the [Center for the Neurobiology of Learning and Memory] (https://cnlm.uci.edu/).
 {: .welcomefont}
 
 ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
