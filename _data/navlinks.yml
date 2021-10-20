@@ -22,9 +22,9 @@
   link: "/lab/courses"
   group: courses
 
-- name: philosophy
-  link: "/lab/compact"
-  group: compact
+# - name: philosophy
+#   link: "/lab/compact"
+#   group: compact
 
 - name: news
   link: "/lab/news"
