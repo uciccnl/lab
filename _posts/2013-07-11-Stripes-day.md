@@ -6,4 +6,4 @@ group: news
 ---
 Some of us didn't get the email about coordinating outfits for group meeting, but evidently Lillian and Daniel did...
 
-![Stripes Day](/static/img/news/stripes.jpg "Stripes Day"){: .img-fluid}
+![Stripes Day](/lab/static/img/news/stripes.jpg "Stripes Day"){: .img-fluid}

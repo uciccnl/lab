@@ -3,7 +3,7 @@ title: "A counter-enzyme complex regulates glutamate metabolism in Bacillus subt
 authors: "Jayaraman V, **Lee DJ**, Elad N, Vimer S, Sharon M, **Fraser JS**, Tawfik DS."
 journal:
 pub_date:
-image: "/static/img/pub/2021_jayaraman.jpg"
+image: "/lab/static/img/pub/2021_jayaraman.jpg"
 pmid:
 pmcid:
 biorxiv: "2021.04.12.439528"

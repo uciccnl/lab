@@ -25,12 +25,12 @@
 #authors: "Surname FM, **Fraser JS.**"
 #journal: "Protein Science"
 #pub_date: "YYYYMM" #Date of journal publication, NOT BIORXIV UPLOAD
-#image: "/static/img/pub/surname_YYYY.png"
+#image: "/lab/static/img/pub/surname_YYYY.png"
 #pmid: "########"
 #pmcid: "PMC#######"
 #biorxiv: "YYYY.MM.DD.######"
 #biorxiv_version: "YYYY.MM.DD.######v1"
-#pdf: "/static/pdf/publications/surname_YYYY.pdf"
+#pdf: "/lab/static/pdf/publications/surname_YYYY.pdf"
 #pdbs:
 #  - "PDB_ID"
 #paired_maps_and_models:

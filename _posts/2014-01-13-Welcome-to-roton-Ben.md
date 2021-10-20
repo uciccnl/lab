@@ -6,4 +6,4 @@ group: news
 ---
 Ben Barad will be rotating with us this quarter - welcome Ben!
 
-![Ben Barad](/static/img/news/ben.jpg "Ben Barad")
+![Ben Barad](/lab/static/img/news/ben.jpg "Ben Barad")

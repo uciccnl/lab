@@ -3,7 +3,7 @@ title: "CryptoSite: Expanding the druggable proteome by characterization and pre
 authors: "Cimermancic P, Weinkam P, Rettenmaier TJ, Bichmann L, **Keedy DA, Woldeyes RA**, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, **Fraser JS**, Sali A."
 journal: 'Journal of Molecular Biology'
 pub_date: '2016-02-22'
-image: '/static/img/pub/2016_cimermancic.jpg'
+image: '/lab/static/img/pub/2016_cimermancic.jpg'
 pmid: '26854760'
 pmcid: 'PMC4794384'
 pdf: 'http://cdn.fraserlab.com/publications/2016_cimermancic.pdf'

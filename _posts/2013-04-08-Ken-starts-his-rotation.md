@@ -6,4 +6,4 @@ group: news
 ---
 Welcome to Ken, our first rotation student from the PSPG graduate program!
 
-![Ken](/static/img/news/ken.jpg "Ken")
+![Ken](/lab/static/img/news/ken.jpg "Ken")

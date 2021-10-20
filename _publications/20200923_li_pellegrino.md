@@ -3,7 +3,7 @@ title: "Synthetic group A streptogramin antibiotics that overcome Vat resistance
 authors: "Li Q&#42;, **Pellegrino J&#42;, Lee DJ**, Tran AA, **Chaires HC**, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**, van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, Mühle E, Chesneau O, **Fraser JS**, Seiple IB."
 journal: 'Nature'
 pub_date: '2020-09-23'
-image: '/static/img/pub/2019_li_pellegrino.jpg'
+image: '/lab/static/img/pub/2019_li_pellegrino.jpg'
 pmid: 32968273
 pmcid: PMC7546582
 chemrxiv: '8346107'

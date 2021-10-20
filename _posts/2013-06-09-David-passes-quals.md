@@ -5,12 +5,12 @@ layout: post
 group: news
 ---
 Describing how he felt **while** Bob Stroud asked him about desolvation energy... 
-![while](/static/img/news/david-quals1.jpg "while"){:.img-fluid}
+![while](/lab/static/img/news/david-quals1.jpg "while"){:.img-fluid}
 
 
 describing how he felt **after** answering...  
-![after](/static/img/news/david-quals2.jpg "after"){:.img-fluid}
+![after](/lab/static/img/news/david-quals2.jpg "after"){:.img-fluid}
 
 two down, one to go! 
-![rahel](/static/img/news/david-quals3.jpg "rahel"){:.img-fluid}
+![rahel](/lab/static/img/news/david-quals3.jpg "rahel"){:.img-fluid}
 Congratulations Iggy!

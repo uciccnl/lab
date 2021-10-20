@@ -2,8 +2,8 @@
 name: Alexander Wolff, Ph.D.
 startdate: 2015-09-01
 enddate: 2020-03-24
-image: /static/img/members/Wolff.jpg
-altimage: /static/img/members/Wolff_pb.jpg
+image: /lab/static/img/members/Wolff.jpg
+altimage: /lab/static/img/members/Wolff_pb.jpg
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu) ([Discovery Fellow](http://support.ucsf.edu/discoveryfellows), [ARCS Scholar](http://www.arcsfoundation.org/))
 subsequent: Medical Writer @ Health Interactions; now Specialist - [Thompson Lab @ UC Merced](https://thompsonlab.science)
 pronouns: he/him/his

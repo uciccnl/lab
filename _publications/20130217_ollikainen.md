@@ -3,7 +3,7 @@ title: "Flexible Backbone Sampling Methods to Model and Design Protein Alternati
 authors: "Ollikainen N, Smith CA, **Fraser JS**, Kortemme T."
 journal: 'Methods in Enzymology'
 pub_date: '2013-02-17'
-image: '/static/img/pub/2013_ollikainen.jpg'
+image: '/lab/static/img/pub/2013_ollikainen.jpg'
 pmid: '23422426'
 pmcid: 'PMC3750959'
 pdf: 'http://cdn.fraserlab.com/publications/2013_ollikainen.pdf'

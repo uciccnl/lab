@@ -3,7 +3,7 @@ title: "A microtubule RELION-based pipeline for cryo-EM image processing"
 date: '2019-06-17'
 authors: "Cook AD, Manka SW, Wang S, Moores CA, Atherton J"
 reviewers: "Young ID, Fraser JS"
-image: "/static/img/reviews/2019_cook.jpg"
+image: "/lab/static/img/reviews/2019_cook.jpg"
 
 peer-review:
 - biorxiv_version: "673566v1"

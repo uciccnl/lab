@@ -6,7 +6,7 @@ group: news
 ---
 A belated welcome to our new rotation student Eugene!
 
- ![Gene-Cakes](/static/img/news/eugene.jpg "Gene-Cakes"){:.img-fluid}
+ ![Gene-Cakes](/lab/static/img/news/eugene.jpg "Gene-Cakes"){:.img-fluid}
 
 And farewell to Erin and Evan who have moved on to their final rotations in the Gestwicki and Frost labs, respectively...
 

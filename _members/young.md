@@ -2,8 +2,8 @@
 name: Iris Young, Ph.D.
 startdate: 2018-08-09
 enddate:
-image: /static/img/members/Young.jpg
-altimage: /static/img/members/Young_pb.jpg
+image: /lab/static/img/members/Young.jpg
+altimage: /lab/static/img/members/Young_pb.jpg
 position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his

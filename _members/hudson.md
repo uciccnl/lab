@@ -2,8 +2,8 @@
 name: Brandi Hudson, Ph.D.
 startdate: 2016-08-15
 enddate: 2018-02-09
-image: /static/img/members/hudson.jpg
-altimage: /static/img/members/hudson_pb.jpg
+image: /lab/static/img/members/hudson.jpg
+altimage: /lab/static/img/members/hudson_pb.jpg
 position: Postdoctoral Fellow
 subsequent: Scientist @ Relay Therapeutics
 pronouns: she/her/hers

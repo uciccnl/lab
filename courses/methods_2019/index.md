@@ -10,7 +10,7 @@ group: courses
 
 ## Fall 2019 Syllabus ##
 
-<img class="img-fluid mx-auto d-block" src="/static/img/courses/methods_wb.JPG" alt="Macro methods whiteboard in the teaching lab">
+<img class="img-fluid mx-auto d-block" src="/lab/static/img/courses/methods_wb.JPG" alt="Macro methods whiteboard in the teaching lab">
 
 **Course Title:** Methods in Macromolecular Structure
 
@@ -226,10 +226,10 @@ _Weds Nov 13_
 
  - [Slides about Crystal Symmetry](http://cdn.fraserlab.com/courses/methods/2018_Symmetry.pdf)
  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
-  - [xia2 summary for ADP](/static/adp/xia2.html)
-    - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
-  - [xia2 summary for APO](/static/apo/xia2.html)
-    - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
+  - [xia2 summary for ADP](/lab/static/adp/xia2.html)
+    - [ADP mtz](/lab/static/adp/DataFiles/yHSP90_ADP.mtz)
+  - [xia2 summary for APO](/lab/static/apo/xia2.html)
+    - [APO mtz](/lab/static/apo/DataFiles/yHSP90_APO.mtz)
 
 **Week 6 - NMR practical**
 

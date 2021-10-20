@@ -2,8 +2,8 @@
 name: Erin Thompson, Ph.D.
 startdate: 2015-06-01
 enddate: 2020-12-31
-image: /static/img/members/EThompson.jpg
-altimage: /static/img/members/EThompson_pb.jpg
+image: /lab/static/img/members/EThompson.jpg
+altimage: /lab/static/img/members/EThompson_pb.jpg
 position: Graduate Student, [Chemistry and Chemical Biology](http://ccb.ucsf.edu)
 subsequent:  Scientist @ Octant
 pronouns: she/her/hers

@@ -2,8 +2,8 @@
 name: Galen Correy, Ph.D.
 startdate: 2019-05-01
 enddate:
-image: /static/img/members/Correy.jpg
-altimage: /static/img/members/Correy_pb.jpg
+image: /lab/static/img/members/Correy.jpg
+altimage: /lab/static/img/members/Correy_pb.jpg
 position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his

@@ -3,7 +3,7 @@ title: "Assessment of enzyme active site positioning and tests of catalytic mech
 authors: "Yabukarski F, **Biel JT**, Pinney MM, Doukov T, Powers AS, **Fraser JS**, Herschlag D."
 journal: 'PNAS'
 pub_date: '2020-12-29'
-image: '/static/img/pub/2020_yabukarski.jpg'
+image: '/lab/static/img/pub/2020_yabukarski.jpg'
 pmid: '33376217'
 pmcid: 'PMC7776779'
 biorxiv: '786327'

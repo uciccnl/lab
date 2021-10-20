@@ -3,7 +3,7 @@ title: "An expanded allosteric network in PTP1B by multitemperature crystallogra
 authors: "**Keedy DA&#42;**, Hill ZB&#42;, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA, **Fraser JS**."
 journal: 'eLife'
 pub_date: '2018-06-07'
-image: '/static/img/pub/2018_keedy_hill.jpg'
+image: '/lab/static/img/pub/2018_keedy_hill.jpg'
 pmid: '29877794'
 pmcid: 'PMC6039181'
 biorxiv: '218966'

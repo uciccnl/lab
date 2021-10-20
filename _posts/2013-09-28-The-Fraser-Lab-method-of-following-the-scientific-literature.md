@@ -28,7 +28,7 @@ RSS is a web syndication format that allows publishers to automatically update t
 Most newspaper sites, blogs, etc also have RSS feeds - but I keep my science and personal RSS feeds separate.
 The RSS logo is this: 
 
-![RSS Logo](/static/img/news/rss-logo.png "RSS")
+![RSS Logo](/lab/static/img/news/rss-logo.png "RSS")
 
 More information can be found on [Wikipedia](http://en.wikipedia.org/wiki/RSS)
 

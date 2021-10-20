@@ -2,8 +2,8 @@
 name: Rahel Woldeyes, Ph.D.
 startdate: 2012-06-01
 enddate: 2017-02-09
-image: /static/img/members/woldeyes.jpg
-altimage: /static/img/members/woldeyes_pb.jpg
+image: /lab/static/img/members/woldeyes.jpg
+altimage: /lab/static/img/members/woldeyes_pb.jpg
 position: Graduate Student, [Chemistry and Chemical Biology](http://ccb.ucsf.edu) ([NSF GRFP](http://www.nsfgrfp.org/))
 subsequent: Postdoctoral Fellow - [Chiu Lab @ SLAC/Stanford](https://profiles.stanford.edu/wah-chiu)
 pronouns: she/her/hers

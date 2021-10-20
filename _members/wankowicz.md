@@ -2,8 +2,8 @@
 name: Stephanie Wankowicz
 startdate: 2019-06-06
 enddate:
-image: /static/img/members/Wankowicz.jpg
-altimage: /static/img/members/Wankowicz_pb.jpg
+image: /lab/static/img/members/Wankowicz.jpg
+altimage: /lab/static/img/members/Wankowicz_pb.jpg
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers

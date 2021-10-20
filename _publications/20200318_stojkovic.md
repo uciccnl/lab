@@ -3,7 +3,7 @@ title: "Assessment of the nucleotide modifications in the high-resolution cryo-e
 authors: "Stojković V, Myasnikov AG, **Young ID**, Frost A, **Fraser JS**, Fujimori DG."
 journal: 'Nucleic Acids Research'
 pub_date: '2020-03-18'
-image: '/static/img/pub/2020_stojkovic.jpg'
+image: '/lab/static/img/pub/2020_stojkovic.jpg'
 pmid: '31989172'
 pmcid: 'PMC7049716'
 biorxiv: '695429'

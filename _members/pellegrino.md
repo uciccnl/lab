@@ -2,8 +2,8 @@
 name: Jenna Pellegrino
 startdate: 2018-06-13
 enddate:
-image: /static/img/members/Pellegrino.jpg
-altimage: /static/img/members/Pellegrino_pb.jpg
+image: /lab/static/img/members/Pellegrino.jpg
+altimage: /lab/static/img/members/Pellegrino_pb.jpg
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers

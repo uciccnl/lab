@@ -2,8 +2,8 @@
 name: Gabriella Estevam
 startdate: 2019-07-19
 enddate:
-image: /static/img/members/Estevam.jpg
-altimage: /static/img/members/Estevam_pb.jpg
+image: /lab/static/img/members/Estevam.jpg
+altimage: /lab/static/img/members/Estevam_pb.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu)
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers

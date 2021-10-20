@@ -3,7 +3,7 @@ title: "Improved chemistry restraints for crystallographic refinement by integra
 date: "2019-08-07"
 authors: "Moriarty NW, Janowski PA, Swails JM, Nguyen H, Richardson JS, Case DA, Adams PD"
 reviewers: "Wankowicz S, Pierce L, Fraser JS"
-image: "/static/img/reviews/2020_moriarty.png"
+image: "/lab/static/img/reviews/2020_moriarty.png"
 
 peer-review:
 - biorxiv_version: "724567v1"

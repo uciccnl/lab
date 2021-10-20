@@ -2,8 +2,8 @@
 name: Lena Bergmann, Ph.D.
 startdate: 2021-09-07
 enddate:
-image: /static/img/members/bergmann.jpg # 365 x 365 pixels, 72 dpi
-altimage: /static/img/members/bergmann_pb.jpg #365 x 365 pixels, 72 dpi
+image: /lab/static/img/members/bergmann.jpg # 365 x 365 pixels, 72 dpi
+altimage: /lab/static/img/members/bergmann_pb.jpg #365 x 365 pixels, 72 dpi
 position: Associate Specialist
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns

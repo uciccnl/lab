@@ -3,7 +3,7 @@ title: "Ensemble-based enzyme design can recapitulate the effects of laboratory 
 authors: "Broom A&#42;, Rakotoharisoa RV&#42;, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, **Liu L, Fraser JS**, Chica RA."
 journal: 'Nature Communications'
 pub_date: '2020-09-23'
-image: '/static/img/pub/2020_broom_rakotoharisoa.jpg'
+image: '/lab/static/img/pub/2020_broom_rakotoharisoa.jpg'
 pmid: 32968058
 pmcid: PMC7511930
 biorxiv: '2020.03.19.999235'

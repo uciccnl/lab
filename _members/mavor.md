@@ -2,8 +2,8 @@
 name: David Mavor, Ph.D.
 startdate: 2011-06-01
 enddate: 2017-04-01
-image: /static/img/members/mavor.jpg
-altimage: /static/img/members/mavor_pb.jpg
+image: /lab/static/img/members/mavor.jpg
+altimage: /lab/static/img/members/mavor_pb.jpg
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)
 subsequent: Postdoctoral Fellow - [Bolon Lab @ UMass Medical School](https://www.umassmed.edu/bolon-lab/); now [Adjunct Teaching Professor @ Worcester Polytechnic Institute](https://www.wpi.edu/people/faculty/dcmavor)
 pronouns: he/him/his

@@ -2,8 +2,8 @@
 name: Leah Roe
 startdate: 2019-07-01
 enddate: 2020-08-01
-image: /static/img/members/Roe.jpg
-altimage: /static/img/members/Roe_pb.jpg
+image: /lab/static/img/members/Roe.jpg
+altimage: /lab/static/img/members/Roe_pb.jpg
 position: Junior Specialist
 subsequent:  Graduate Student - [Schepartz Lab @ UC Berkeley](https://schepartzlab.com)
 pronouns: she/her/hers

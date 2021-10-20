@@ -3,7 +3,7 @@ title: "Ligand binding remodels protein side chain conformational heterogeneity.
 authors: "**Wankowicz SA**, de Oliveira SHP, **Hogan DW**, van den Bedem H., **Fraser JS**."
 journal:
 pub_date: '2021-09-22'
-image: "/static/img/pub/2021_wankowicz.jpg"
+image: "/lab/static/img/pub/2021_wankowicz.jpg"
 pmid:
 pmcid:
 biorxiv:

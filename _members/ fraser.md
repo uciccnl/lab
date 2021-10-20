@@ -2,8 +2,8 @@
 name: James Fraser, Ph.D.
 startdate: 2011-01-01
 enddate:
-image: /static/img/members/Fraser.jpg
-# altimage: /static/img/members/Fraser_pb.jpg
+image: /lab/static/img/members/Fraser.jpg
+# altimage: /lab/static/img/members/Fraser_pb.jpg
 position: Principal Investigator
 #current:
 pronouns: he/him/his

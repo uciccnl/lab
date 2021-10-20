@@ -31,8 +31,8 @@ These methods development efforts are central to discovering new allosteric liga
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
-<!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
+<img class="img-fluid" src="/lab/static/img/pub/2017_biel.jpg" alt="qFit">
+<!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/lab/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
 </div>
 </div>
@@ -48,7 +48,7 @@ Additionally, we have identified how temperature can bias small molecule discove
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
+<img class="img-fluid" src="/lab/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
 </div>
 </div>
 <div class="row">
@@ -62,7 +62,7 @@ We are interested in the structural enzymology and potential therapeutic applica
 
 <div class="col-md-3 order-md-2 align-self-center">
 
-<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
+<img class="img-fluid" src="/lab/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
 </div>
 </div>
 <div class="row">
@@ -76,7 +76,7 @@ We are intrigued by the similarities in genetic epistasis and thermodynamic meas
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png" alt="hairball">
+<img class="img-fluid" src="/lab/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png" alt="hairball">
 </div>
 </div>
 <div class="row">
@@ -92,7 +92,7 @@ Our long-term goal is to increase the information content of every X-ray diffrac
 </div>
 
 <div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/2019_thompson.jpg" alt="tjump">
+<img class="img-fluid" src="/lab/static/img/pub/2019_thompson.jpg" alt="tjump">
 </div>
 
 </div>

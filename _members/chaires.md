@@ -2,8 +2,8 @@
 name: Hector Chaires
 startdate: 2019-05-20
 enddate: 2020-07-31
-image: /static/img/members/Chaires.jpg
-altimage: /static/img/members/Chaires_pb.jpg
+image: /lab/static/img/members/Chaires.jpg
+altimage: /lab/static/img/members/Chaires_pb.jpg
 position: Junior Specialist
 subsequent: Medical Student @ UT Southwestern
 pronouns: he/him/his

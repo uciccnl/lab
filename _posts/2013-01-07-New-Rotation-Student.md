@@ -6,4 +6,4 @@ group: news
 ---
 Brian O'Donovan starts his rotation!
 
- <img src="/static/img/news/brian.jpg" alt="rahel" class="img-fluid">
+ <img src="/lab/static/img/news/brian.jpg" alt="rahel" class="img-fluid">

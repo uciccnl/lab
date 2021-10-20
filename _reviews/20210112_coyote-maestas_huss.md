@@ -3,7 +3,7 @@ title: "Mapping the Functional Landscape of the Receptor Binding Domain of T7 Ba
 date: "2021-04-15"
 authors: "Huss P, Meger A, Leander M, Nishikawa K, Raman S"
 reviewers: "Coyote-Maestas W, Fraser JS"
-image: "/static/img/reviews/2021_huss.jpg"
+image: "/lab/static/img/reviews/2021_huss.jpg"
 
 peer-review:
 - biorxiv_version: "2020.07.28.225284v2"
