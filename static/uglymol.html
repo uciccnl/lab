@@ -60,7 +60,7 @@
    a { color: #59C; }
   </style>
 
-  <script src="/static/js/uglymol.js"></script>
+  <script src="/lab/static/js/uglymol.js"></script>
   <script src="/wasm/mtz.js"></script>
 
 </head>
@@ -75,10 +75,10 @@
     V = new UM.Viewer({viewer: "viewer", hud: "hud", help: "help"});
     G = null;
     function load_from_pdbe(id, callback) {
-      V.load_pdb('/static/uglymol/' + id + '.pdb', {},
+      V.load_pdb('/lab/static/uglymol/' + id + '.pdb', {},
                  function () {
           UM.load_maps_from_mtz(G, V,
-            '/static/uglymol/' + id + '.mtz',
+            '/lab/static/uglymol/' + id + '.mtz',
             null, callback);
       });
     }
