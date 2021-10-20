@@ -17,7 +17,9 @@ github:
 orcid:
 description: "Sharon Noh received her Bachelor’s degree in psychobiology at UCLA and her Ph.D. in cognitive neuroscience at UT Austin. 
 
+
 Her research interests lie in identifying and understanding the conditions that improve long term learning and decision-making across the lifespan. 
+
 
 She currently working on various projects investigating how memory processes influence planning and decision-making in older and younger adults using neuroimaging (fMRI) and computational modeling techniques. "
 ---

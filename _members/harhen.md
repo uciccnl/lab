@@ -17,7 +17,9 @@ github:
 orcid:
 description: "Nora received her B.A. in Cognitive Science from UC Berkeley where she researched learning and decision-making with Anne Collins. After graduating, she worked with Marina Bedny at Johns Hopkins examining neuroplasticity in blind individuals. 
 
+
 She’s interested in how memory-guided decision-making changes across development and how early life experiences influence individuals’ susceptibility for substance use disorders, anxiety, and depression later in life. 
+
 
 Outside of the lab, Nora enjoys knitting, cooking, and bad reality tv."
 ---
