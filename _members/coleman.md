@@ -6,7 +6,7 @@ image: /lab/static/img/members/coleman.jpeg #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/coleman.jpeg #365 x 365 pixels, 72 dpi, JPG
 position: Senior, Campuswide Honors program
 subsequent:
-pronouns: she/her
+pronouns: #she/her
 email:  #angelika.arada (at) ucsf.edu
 scholar:
 website:
