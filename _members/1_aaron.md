@@ -10,7 +10,7 @@ pronouns: he/him
 email:  aaron.bornstein (at) uci.edu
 scholar:
 website: "http://aaron.bornstein.org/"
-UCSF: aaron.bornstein
+UCSF: #aaron.bornstein
 twitter: urrational
 linkedin: #angelikaarada
 github:
