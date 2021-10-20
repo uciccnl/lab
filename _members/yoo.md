@@ -2,8 +2,8 @@
 name: Jungsun Yoo
 startdate: 2020-10-01
 enddate:
-image: /lab/static/img/members/yoo.JPG #365 x 365 pixels, 72 dpi, JPG
-altimage: /lab/static/img/members/yoo.jpg #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/yoo.jpeg #365 x 365 pixels, 72 dpi, JPG
+altimage: /lab/static/img/members/yoo.jpeg #365 x 365 pixels, 72 dpi, JPG
 position: 2nd year graduate student
 subsequent:
 pronouns: she/her
