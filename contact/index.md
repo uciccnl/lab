@@ -12,10 +12,10 @@ group: contact
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
-  [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  600 16th Street, Genentech Hall Room S476<br>
-  San Francisco, CA 94143<br>
-  tel: 415 502 3488
+  [Department of Cognitive Sciences](http://cogsci.uci.edu)<br>
+  University of California Irvine, #202, Social Science Lab 334<br>
+  Irvine, CA 92617<br>
+  <!-- tel: 415 502 3488 -->
 
 </div>
 
@@ -24,15 +24,15 @@ group: contact
   <h4>Aaron Bornstein, Ph.D.</h4>
   Assistant Professor<br>
   [Department of Cognitive Sciences](http://cogsci.uci.edu)<br>
-  [Center for the Neurobiology of Learning and Memory (QB3)](http://cnlm.uci.edu)<br>
-  600 16th Street, Genentech Hall Room S472E<br>
-  San Francisco, CA 94143<br>
-  email: uciccnl (at) gmail.com <br>
-  tel: 415 502 1863
+  [Center for the Neurobiology of Learning and Memory](http://cnlm.uci.edu)<br>
+  214 Pereira Dr, Social & Behavioral Sciences Gateway 2318<br>
+  Irvine, CA 92617<br>
+  email: aaron.bornstein (at) uci.edu <br>
+  tel: (949) 824 0628
 
 </div>
 
-<div class="col-md-4">
+<!-- <div class="col-md-4">
 
   <h4> Hilary Smith Mahon</h4>
   Administrative Assistant to Dr. James Fraser and others<br>
@@ -40,16 +40,16 @@ group: contact
   email: Hilary.SmithMahon (at) ucsf.edu<br>
   tel: 415 476-1947 <br>
 
-</div>
+</div> -->
 
 </div>
 
-## Land Acknowledgement Statement
+<!-- ## Land Acknowledgement Statement
 
-The Fraser lab recognizes that [the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula](https://diversity.ucsf.edu/ucsf-land-acknowledgment). As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our [full statement](/land_ack).
+The Fraser lab recognizes that [the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula](https://diversity.ucsf.edu/ucsf-land-acknowledgment). As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our [full statement](/land_ack). -->
 
-# Directions to the Fraser Lab
-### The Mission Bay Campus can be reached:  
+# Directions to the CCN Lab
+### The campus can be reached:  
 * #### Public Transportation:
   * **Option 1**: Exit BART at the 16th St Station and wait for the free [UCSF Red shuttle](https://campuslifeservices.ucsf.edu/upload/transportation/files/Red.pdf) (weekdays only) that stops directly outside [what was once a Burger King and now has lovely graffiti](https://www.google.com/maps/@37.765092,-122.419164,3a,75y,5.38h,82.64t/data=!3m4!1e1!3m2!1sH_jzIrhuF8wnnEp0duvIEQ!2e0).
   * **Option 2**: [Exit BART at the 16th St Station and take the 22 Muni Bus towards Mission Bay. Exit at 16th and 4th.](https://goo.gl/maps/gaD7sNsL947S4KcS9)
