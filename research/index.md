@@ -32,7 +32,7 @@ These methods development efforts are central to discovering new allosteric liga
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
 <img class="img-fluid" src="/lab/static/img/pub/2017_biel.jpg" alt="qFit">
-<!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/lab/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
+<!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/lab/static/img/ucilogo.png" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
 </div>
 </div>
