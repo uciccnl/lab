@@ -1,57 +1,14 @@
-#Style guide for Fraser Lab website.
-#Written by Robbie Diaz - 2020.
-#Updated 07/19/21
-
-#Style Guide: Publications
-##All sections
-  #Indent with two spaces
-  #Use double quotes for all string entries
-
-#Authors
-#Bold lab member names using the following format: **Last FM**.
-#Use one pair of double asterisks for multiple lab members that appear sequentially: **Young ID, Diaz RE, Liu LL**.
-#Use &#42; to add an asterisk denoting co-first/corresponding author. Otherwise, bolding of names using **Surname FM** will break.
-#For readability of code, start a new line at 140 characters.
-
-#Images and PDFs
-#All images and PDFs should be named using the following convention: firstauthorsurname_YYYY
-
-#Leave PMID and PMCID blank until an ID is assigned.
-#Do not include additional subsections that are not relevant to a publication (PDB, data, Zenodo, etc).
-
-#Example Publication
 ---
-#title: "Title of article."
-#authors: "Surname FM, **Fraser JS.**"
-#journal: "Protein Science"
-#pub_date: "YYYYMM" #Date of journal publication, NOT BIORXIV UPLOAD
-#image: "/lab/static/img/pub/surname_YYYY.png"
-#pmid: "########"
-#pmcid: "PMC#######"
-#biorxiv: "YYYY.MM.DD.######"
-#biorxiv_version: "YYYY.MM.DD.######v1"
-#pdf: "/lab/static/pdf/publications/surname_YYYY.pdf"
-#pdbs:
-#  - "PDB_ID"
-#paired_maps_and_models:
-#  - pdb: "PDB_ID"
-#    emdb: "#####"
-#paired_maps_and_models_and_data:
-#  - pdb: "PDB_ID"
-#    emdb: "#####"
-#    empiar: "#####"
-#data:
-#  - "10.11577/1602169"
-#zenodo:
-#  - code: "3555658"
-#    description: "qPTxM code snapshot"
-#links:
-#  - name: "Fujimori lab  @ UC San Francisco"
-#    url: "https://fujimorilab.ucsf.edu"
-#  - name: "Gonen lab @ UC Los Angeles"
-#    url: "https://cryoem.ucla.edu/"
-#  - name: "qPTxM code on GitHub"
-#    url: "https://github.com/fraser-lab/qptm"
-#  - name: "Celebratory Tweetstorm by first author First Surname"
-#    url: "https://twitter.com/LifeHasOrder/status/1172327493451145218"
+title: "Dissociating hippocampal and striatal contributions to sequential prediction learning."
+authors: "**Bornstein AM**, Daw ND."
+journal: 'European Journal of Neuroscience, 35:1011-1023'
+pub_date: '2012-04-12'
+data: 
+  - "10.1111/j.1460-9568.2011.07920.x"
+# image: '/lab/static/img/pub/2006_fraser.jpg'
+# pmid: '16631788'
+# pdf: 'http://cdn.fraserlab.com/publications/2006_fraser.pdf'
+# links:
+# - name: Davidson lab @ University of Toronto
+  # url: http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html
 ---
