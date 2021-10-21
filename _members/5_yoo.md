@@ -8,18 +8,18 @@ position: 2nd year graduate student
 subsequent:
 pronouns: she/her
 email:  jungsun.yoo (at) uci.edu
-scholar:
-website:
+scholar: 
+website: "https://jungsunyoo.github.io/"
 UCSF:
 twitter: jungsun_yoo
 linkedin: #angelikaarada
 github: yoojungsun0
-orcid:
-description: "Jungsun graduated from Sungkyunkwan University with a Bachelor’s degree in Psychology and Philosophy. During undergrad, she worked in [Dr. Misty Kuhn’s](https://www.kuhnlaboratory.com) lab to conduct crystallization trials of uncharacterized Gcn5-related N-acetyltransferases (GNATs) from *Pseudomonas aeruginosa*.
+orcid: 0000-0001-8341-9226
+description: "Jungsun graduated from Sungkyunkwan University with a Bachelor’s degree in Psychology and Philosophy. She obtained her M.Sc. degree from the Free University of Berlin, where she investigated the behavioral and neural interaction of domain-specific memory and value at the [Heekeren Lab](http://www.heekerenlab.org/). She also worked as an AI researcher in [Compuational Health Informatics Laboratory at the Asan Medical Center](https://www.chilab.kr/home) where she led research on explainable AI. 
 
 
-In CCN lab, Angel works with Eric on an oligomeric enzyme, Glutamine Synthetase (GS), to characterize the relationship between oligomeric state and activity as a function of allosteric effectors.
+In the CCN lab, Jungsun is currently working on memory-guided reinforcement learning in humans, and in particular, how people employ online planning in various contexts. Jungsun's academic goal is to bridge the gap between learning mechanisms in biological and artificial agents. 
 
 
-Outside of lab, Angel likes to play video games, go to concerts, and spend time with her partner’s cat Tako."
+Outside of lab, Jungsun is a amateur violist and loves participating in ensembles such as quartets or orchestras ([link to the most recent performance](https://www.youtube.com/watch?v=puLFBhQz9Lo)). She is also fascinated by various programming languages."
 ---
