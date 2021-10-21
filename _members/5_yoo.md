@@ -15,10 +15,10 @@ twitter: jungsun_yoo
 linkedin: #angelikaarada
 github: yoojungsun0
 orcid: 0000-0001-8341-9226
-description: "Jungsun graduated from Sungkyunkwan University with a Bachelor’s degree in Psychology and Philosophy. She obtained her M.Sc. degree from the Free University of Berlin, where she investigated the behavioral and neural interaction of domain-specific memory and value at the [Heekeren Lab](http://www.heekerenlab.org/). She also worked as an AI researcher in [Compuational Health Informatics Laboratory at the Asan Medical Center](https://www.chilab.kr/home) where she led research on explainable AI. 
+description: "Jungsun graduated from Sungkyunkwan University with a Bachelor’s degree in Psychology and Philosophy. She obtained her M.Sc. degree from the Free University of Berlin, where she investigated the behavioral and neural interaction of domain-specific memory and value at the [Heekeren Lab](http://www.heekerenlab.org/). She also worked as an AI researcher in the [Computational Health Informatics Laboratory at the Asan Medical Center](https://www.chilab.kr/home) where she led research on explainable AI. 
 
 
-In the CCN lab, Jungsun is currently working on memory-guided reinforcement learning in humans, and in particular, how people employ online planning in various contexts. Jungsun's academic goal is to bridge the gap between learning mechanisms in biological and artificial agents. 
+In the CCN Lab, Jungsun is currently working on memory-guided reinforcement learning in humans, and in particular, how people employ online planning in various contexts. Jungsun's academic goal is to bridge the gap between learning mechanisms in biological and artificial agents. 
 
 
 Outside of the lab, Jungsun is an amateur violist and loves participating in ensembles such as quartets or orchestras ([link to the most recent performance](https://www.youtube.com/watch?v=puLFBhQz9Lo)). She is also fascinated by various programming languages."
