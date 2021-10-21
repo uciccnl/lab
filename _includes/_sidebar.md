@@ -1,7 +1,7 @@
 ---
 title: Contact
 ---
-
+<img class="img-fluid mx-auto d-block" src="/lab/static/img/logo/CCNL_logo.jpeg" alt="UCI CCNL logo">
 
 ### Contact the CCN Lab
 
