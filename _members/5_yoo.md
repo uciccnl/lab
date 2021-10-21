@@ -21,5 +21,5 @@ description: "Jungsun graduated from Sungkyunkwan University with a Bachelor’s
 In the CCN lab, Jungsun is currently working on memory-guided reinforcement learning in humans, and in particular, how people employ online planning in various contexts. Jungsun's academic goal is to bridge the gap between learning mechanisms in biological and artificial agents. 
 
 
-Outside of lab, Jungsun is a amateur violist and loves participating in ensembles such as quartets or orchestras ([link to the most recent performance](https://www.youtube.com/watch?v=puLFBhQz9Lo)). She is also fascinated by various programming languages."
+Outside of the lab, Jungsun is an amateur violist and loves participating in ensembles such as quartets or orchestras ([link to the most recent performance](https://www.youtube.com/watch?v=puLFBhQz9Lo)). She is also fascinated by various programming languages."
 ---
