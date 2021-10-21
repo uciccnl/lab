@@ -13,7 +13,7 @@ website: "https://jungsunyoo.github.io/"
 UCSF:
 twitter: jungsun_yoo
 linkedin: #angelikaarada
-github: yoojungsun0
+github: jungsunyoo
 orcid: 0000-0001-8341-9226
 description: "Jungsun graduated from Sungkyunkwan University with a Bachelor’s degree in Psychology and Philosophy. She obtained her M.Sc. degree from the Free University of Berlin, where she investigated the behavioral and neural interaction of domain-specific memory and value at the [Heekeren Lab](http://www.heekerenlab.org/). She also worked as an AI researcher in the [Computational Health Informatics Laboratory at the Asan Medical Center](https://www.chilab.kr/home) where she led research on explainable AI. 
 
