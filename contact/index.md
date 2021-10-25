@@ -25,10 +25,10 @@ group: contact
   Assistant Professor<br>
   [Department of Cognitive Sciences](http://cogsci.uci.edu)<br>
   [Center for the Neurobiology of Learning and Memory](http://cnlm.uci.edu)<br>
-  214 Pereira Dr, Social & Behavioral Sciences Gateway 2318<br>
+  214 Pereira Dr, Social & Behavioral Sciences Gateway<br>
   Irvine, CA 92617<br>
   email: aaron.bornstein (at) uci.edu <br>
-  tel: (949) 824 0628
+  <!-- tel: (949) 824 0628 -->
 
 </div>
 
