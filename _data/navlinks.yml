@@ -18,9 +18,9 @@
   link: "/lab/members"
   group: members
 
-- name: teaching
-  link: "/lab/courses"
-  group: courses
+# - name: teaching
+#   link: "/lab/courses"
+#   group: courses
 
 # - name: philosophy
 #   link: "/lab/compact"
@@ -38,6 +38,6 @@
   link: "/lab/contact"
   group: contact
 
-- name: private
-  link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
-  group: private
+# - name: private
+#   link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
+#   group: private
