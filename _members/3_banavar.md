@@ -15,11 +15,5 @@ twitter:
 linkedin: #angelikaarada
 github:
 orcid:
-description: "Angel graduated from San Francisco State University with a Bachelor’s degree in Biochemistry. During undergrad, she worked in [Dr. Misty Kuhn’s](https://www.kuhnlaboratory.com) lab to conduct crystallization trials of uncharacterized Gcn5-related N-acetyltransferases (GNATs) from *Pseudomonas aeruginosa*.
-
-
-In the Fraser lab, Angel works with Eric on an oligomeric enzyme, Glutamine Synthetase (GS), to characterize the relationship between oligomeric state and activity as a function of allosteric effectors.
-
-
-Outside of lab, Angel likes to play video games, go to concerts, and spend time with her partner’s cat Tako."
+description: "Nidhi is interested in how and why people make the decisions that they do."
 ---
