@@ -68,4 +68,4 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
 5. You will encounter an intersection. Make a left (south) and head towards the S401-484 area.
 6. You should find a break room. James's office is through the clear doors straight ahead. The Fraser lab is on the right. -->
 
-<img class="img-fluid" src="/lab/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
+<!-- <img class="img-fluid" src="/lab/static/img/map_to_mission_bay.png" alt="Map of Mission Bay"> -->
