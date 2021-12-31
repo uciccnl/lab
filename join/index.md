@@ -5,7 +5,7 @@ group: join
 ---
 
 # Join the CCN Lab
-Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment.
+<!-- Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment. -->
 <!-- ##### Read more about [our lab compact and philosophy.](/compact/) -->
 
 If you're interested in working in the lab, please send [Dr. Aaron Bornstein](mailto:aaron.bornstein@uci.edu) a <b>brief</b> (~2 paragraph) message describing your research experience and interests. Include a CV and email addresses of up to three references.

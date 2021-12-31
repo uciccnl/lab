@@ -2,9 +2,9 @@
   link: "/lab/"
   group: home
 
-- name: research
-  link: "/lab/research"
-  group: research
+# - name: research
+#   link: "/lab/research"
+#   group: research
 
 - name: publications
   link: "/lab/publications"

@@ -27,7 +27,6 @@ group: contact
   [Center for the Neurobiology of Learning and Memory](http://cnlm.uci.edu)<br>
 <!--   214 Pereira Dr, Social & Behavioral Sciences Gateway<br>
   Irvine, CA 92617<br> -->
-  
   email: aaron.bornstein (at) uci.edu <br>
   <!-- tel: (949) 824 0628 -->
 
@@ -48,7 +47,7 @@ group: contact
 <!-- ## Land Acknowledgement Statement
 
 The Fraser lab recognizes that [the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula](https://diversity.ucsf.edu/ucsf-land-acknowledgment). As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our [full statement](/land_ack). -->
-
+<!-- 
 # Directions to the CCN Lab
 ### The campus can be reached:  
 * #### Public Transportation:
@@ -67,6 +66,6 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
 3. Take the elevator or staircase to the 4th floor.
 4. Walk west down the hall. The large windows facing the courtyard will be on your right. If the floor color changes to grey, you have gone the wrong way and are now in Byers Hall. Turn around and walk back towards Genentech Hall.
 5. You will encounter an intersection. Make a left (south) and head towards the S401-484 area.
-6. You should find a break room. James's office is through the clear doors straight ahead. The Fraser lab is on the right.
+6. You should find a break room. James's office is through the clear doors straight ahead. The Fraser lab is on the right. -->
 
 <img class="img-fluid" src="/lab/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
