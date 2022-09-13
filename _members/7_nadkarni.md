@@ -6,8 +6,8 @@ image:
 altimage: 
 position: Junior Research Specialist
 subsequent:
-pronouns: #he/him
-email:  #mnadkarn (at) uci.edu
+pronouns:he/him
+email: mnadkarn (at) uci.edu
 scholar:
 website:
 UCSF:
