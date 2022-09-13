@@ -2,8 +2,8 @@
 name: Mohit Nadkarni
 startdate: 2022-08-22
 enddate:
-image: /lab/static/img/members/mohit.png
-altimage: /lab/static/img/members/mohit.png
+image: /lab/static/img/members/mohit.jpg
+altimage: /lab/static/img/members/mohit.jpg
 position: Junior Research Specialist
 subsequent:
 pronouns:he/him
