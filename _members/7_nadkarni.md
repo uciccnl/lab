@@ -2,7 +2,7 @@
 name: Mohit Nadkarni
 startdate: 2022-08-22
 enddate:
-image: /lab/static/img/members/mohit.png
+image: 
 altimage:
 position: Junior Research Specialist
 subsequent:
