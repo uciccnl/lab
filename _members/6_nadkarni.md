@@ -15,11 +15,9 @@ twitter: NadkarniMohit
 linkedin: 
 github:
 orcid:
-description: "Mohit Nadkarni is a graduate from the University of Texas, Austin.
+description: "Mohit received his B.S. in Neuroscience from the University of Texas, Austin where he researched learning and decision-making with Dr. Alison Preston, Dr. Sharon Noh, and Dr. Christine Coughlin. He previous worked on a number of projects investigating decision-making and learning in older and younger adults using neuroimaging (fMRI) and computational modeling techniques.
 
+After graduating, he chose to further explore his passions and interests in research. He’s interested in learning more about how decision making is effected by age, and the conditions of learning and decision-making across ones lifespan that could be improved.
 
-He has a bachelors of science in neuroscience. His interests lie in learning more about how decision making is effected by age.
-
-
-Outside the lab, Mohit enjoys reading running, chess, and yelping!"
+Outside the lab, Mohit enjoys reading running, chess, and yelping!
 ---
