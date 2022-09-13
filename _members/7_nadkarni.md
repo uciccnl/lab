@@ -11,7 +11,7 @@ email: mnadkarn (at) uci.edu
 scholar:
 website:
 UCSF:
-twitter: #NadkarniMohit
+twitter: NadkarniMohit
 linkedin: 
 github:
 orcid:
