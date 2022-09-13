@@ -12,8 +12,8 @@ scholar:
 website:
 UCSF:
 twitter: NadkarniMohit
-linkedin: 
-github:
+linkedin: mohitnadkarni
+github: mohitnadkarni
 orcid:
 description: "Mohit received his B.S. in Neuroscience from the University of Texas, Austin where he researched learning and decision-making with Dr. Alison Preston, Dr. Sharon Noh, and Dr. Christine Coughlin. He previous worked on a number of projects investigating decision-making and learning in older and younger adults using neuroimaging (fMRI) and computational modeling techniques.
 
