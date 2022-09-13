@@ -6,7 +6,7 @@ image: /lab/static/img/members/mohit.jpg
 altimage: /lab/static/img/members/mohit.jpg
 position: Junior Research Specialist
 subsequent:
-pronouns:he/him
+pronouns: he/him
 email: mnadkarn (at) uci.edu
 scholar:
 website:
