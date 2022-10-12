@@ -1,5 +1,5 @@
 ---
-name: Gloria Chen
+name: Gloria Cheng
 startdate: 2022-08-22
 enddate:
 image: /lab/static/img/members/gloria_chen.jpeg #365 x 365 pixels, 72 dpi, JPG
