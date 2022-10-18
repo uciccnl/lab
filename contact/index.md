@@ -48,19 +48,19 @@ Social Science Lab, UC-Irvine<br>
 If you are driving from off-campus, we recommend that you park in the Social Science Parking Structure (SSPS) at the intersection of Stanford Avenue and Campus Drive. Street parking is not available close to the Lab location.Enter the Social Science Parking Structure from the Stanford St Entrance using the GPS Address provided above. We have created a parking permit for you and you will be able to pick it up at this kiosk. Make sure to display your parking pass on the dashboard of your car before making your way to the lab. 
 
 ### To the Lab from Parking
-Once you park, exit the Parking Structure from the 3rd Floor on the South Side. There is a ramp that leads down to Pereira Drive. Cross the street and turn right. Continue following the street until you reach the walkway between the Paul Merage School of Business and the Social Science Gateway buildings. Follow the walkway straight and you should see a Starbucks.<br><br>
+Once you park, exit the Parking Structure from the 3rd Floor on the South Side. There is a ramp that leads down to Pereira Drive. Cross the street and turn right. Continue following the street until you reach the walkway between the Paul Merage School of Business and the Social Science Gateway buildings. Follow the walkway straight and you should see a Starbucks.<br><br><br>
 <img class="img-fluid" src="/lab/static/img/first_map.png" alt="First map"> <br>
-Turn right at the Social Ecology II Building.<br><br>
+Turn right at the Social Ecology II Building.<br><br><br>
 <img class="img-fluid" src="/lab/static/img/second_map.png" alt="Second map"> <br>
-Walk through the grove of trees until you reach a small plaza with a fountain. <br><br>
+Walk through the grove of trees until you reach a small plaza with a fountain. <br><br><br>
 <img class="img-fluid" src="/lab/static/img/third_map.png" alt="Third map"> <br>
-Go up the stairs to your left. <br><br>
+Go up the stairs to your left. <br><br><br>
 <img class="img-fluid" src="/lab/static/img/fourth_map.png" alt="Fourth map"> <br>
-Continue up the second set of stairs and towards the tall building.<br><br>
+Continue up the second set of stairs and towards the tall building.<br><br><br>
 <img class="img-fluid" src="/lab/static/img/fifth_map.png" alt="Fifth map"><br>
-You should enter into a small plaza in front of two large buildings. A wide set of stairs will lead up to each building.<br><br>
+You should enter into a small plaza in front of two large buildings. A wide set of stairs will lead up to each building.<br><br><br>
 <img class="img-fluid" src="/lab/static/img/sixth_map.png" alt="Sixth map"><br>
-The building on the left (the short one) is the Social Science Lab, which houses the CCN Lab.<br><br>
+The building on the left (the short one) is the Social Science Lab, which houses the CCN Lab.<br><br><br>
 
 ### The Walking Route
 <br>
