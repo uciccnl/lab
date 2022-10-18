@@ -3,7 +3,6 @@ title: CCN Lab
 layout: home
 group: home
 ---
-
 # Welcome to the Computational Cognitive Neuroscience Lab!
 {: .display-4}
 <br>
