@@ -34,14 +34,14 @@ group: contact
 </div>
 
 # Directions to the Lab
-The Bornstein Lab is on the 3th floor of the Social Science Lab building. <br>
+The Bornstein Lab is on the 3rd floor of the Social Science Lab building. <br>
 If you are scheduled to participate in a study, one of our research assistants will be awaiting your call and will bring you up to the lab. <br>
 Addresses for the locations of both parking and the lab itself are provided by GPS navigation. <b>If you are driving, please make your way to the parking structure first.</b> From there follow the directions to the lab.
-### Adresses for GPS Navigation
+### Addresses for GPS Navigation
 For Driving to the Social Science Parking Structure:<br>
 4502 Campus Dr, Irvine, CA 92617<br>
 <br>
-For Walking Directions to the Lab from Drop-off/Parking Point:<br>
+For Walking Directions to the Lab from the Drop-off/Parking Point:<br>
 Social Science Lab, UC-Irvine<br>
 
 ### To Parking
