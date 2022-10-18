@@ -23,7 +23,7 @@ Send the above information, and include two or three relevant manuscripts (prepr
 
 ## PhD applicants: 
 
-If you would like to inquire about applying for admission in 2022, please send the above information (plus manuscripts, if any) and then apply via the [Cognitive Sciences graduate program](https://www.cogsci.uci.edu/graduate/) (deadline <b>December 1st</b>, 2021) or the [Medical Scientist Training Program](https://mstp.uci.edu/).
+Applications for the 2023 PhD cohort are available beginning in September, 2022. If you would like to inquire about applying for admission in 2023, please send the above information (plus manuscripts, if any) and then apply via the [Cognitive Sciences graduate program](https://www.cogsci.uci.edu/graduate/) (deadline <b>December 1st</b>, 2022) or the [Medical Scientist Training Program](https://mstp.uci.edu/).
 
 Note: While I cannot serve as a primary advisor for any graduate program other than Cognitive Sciences, I am open to discussing plans for collaboration with faculty in your target department. Please name them in your introduction email.
 

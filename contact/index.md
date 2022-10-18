@@ -49,21 +49,21 @@ If you are driving from off-campus, we recommend that you park in the Social Sci
 
 ### To the Lab from Parking
 Once you park, exit the Parking Structure from the 3rd Floor on the South Side. There is a ramp that leads down to Pereira Drive. Cross the street and turn right. Continue following the street until you reach the walkway between the Paul Merage School of Business and the Social Science Gateway buildings. Follow the walkway straight and you should see a Starbucks.<br>
-<img class="img-fluid" src="/static/img/map_to_lab_1.jpeg" alt="Map 1">
+<img class="img-fluid" src="/lab/static/img/map_to_lab_1.jpeg" alt="Map 1">
 Turn right at the Social Ecology II Building.<br>
-<img class="img-fluid" src="/static/img/map_to_lab_2.jpeg" alt="Map 2">
+<img class="img-fluid" src="/lab/static/img/map_to_lab_2.jpeg" alt="Map 2">
 Walk through the grove of trees until you reach a small plaza with a fountain. <br>
-<img class="img-fluid" src="/static/img/map_to_lab_3.jpeg" alt="Map 3">
+<img class="img-fluid" src="/lab/static/img/map_to_lab_3.jpeg" alt="Map 3">
 Go up the stairs to your left. <br>
-<img class="img-fluid" src="/static/img/map_to_lab_4.jpeg" alt="Map 4">
+<img class="img-fluid" src="/lab/static/img/map_to_lab_4.jpeg" alt="Map 4">
 Continue up the second set of stairs and towards the tall building.<br>
-<img class="img-fluid" src="/static/img/map_to_lab_5.jpeg" alt="Map 5">
+<img class="img-fluid" src="/lab/static/img/map_to_lab_5.jpeg" alt="Map 5">
 You should enter into a small plaza in front of two large buildings. A wide set of stairs will lead up to each building.<br>
-<img class="img-fluid" src="/static/img/map_to_lab_6.jpeg" alt="Map 6">
+<img class="img-fluid" src="/lab/static/img/map_to_lab_6.jpeg" alt="Map 6">
 The building on the left (the short one) is the Social Science Lab, which houses the CCN Lab.<br>
 
 ### The Walking Route
-<img class="img-fluid" src="/static/img/map_to_lab_7.jpeg" alt="Map 7">
+<img class="img-fluid" src="/lab/static/img/map_to_lab_7.jpeg" alt="Map 7">
 
 <!-- ### The Mission Bay Campus can be reached:  
 * #### Public Transportation:
