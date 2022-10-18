@@ -9,25 +9,23 @@ group: join
 <!-- ##### Read more about [our lab compact and philosophy.](/compact/) -->
 
 If you're interested in working in the lab, please send [Dr. Aaron Bornstein](mailto:aaron.bornstein@uci.edu) a <b>brief</b> (~2 paragraph) message describing your research experience and interests. Include a CV and email addresses of up to three references.
-
-
 <!-- We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. James Fraser](/contact). -->
 
 <!-- Currently we have **open positions** for people with the following skills:
 [Specialist](https://aprecruit.ucsf.edu/JPF03325) who will engage in research projects and also manage daily wet lab operations. -->
-<br/>
+<!-- <br/> -->
 
-## Postdoc candidates: 
+### Postdoc candidates: 
 
 Send the above information, and include two or three relevant manuscripts (preprints are ok).
 
-## PhD applicants: 
+### PhD applicants: 
 
 Applications for the 2023 PhD cohort are available beginning in September, 2022. If you would like to inquire about applying for admission in 2023, please send the above information (plus manuscripts, if any) and then apply via the [Cognitive Sciences graduate program](https://www.cogsci.uci.edu/graduate/) (deadline <b>December 1st</b>, 2022) or the [Medical Scientist Training Program](https://mstp.uci.edu/).
 
 Note: While I cannot serve as a primary advisor for any graduate program other than Cognitive Sciences, I am open to discussing plans for collaboration with faculty in your target department. Please name them in your introduction email.
 
-## UCI undergraduates: 
+### UCI undergraduates: 
 
 Refer to the [UROP posting](https://urop.due.uci.edu/urop/on_campus/on_campus_web_summary_detailed.asp?web_code=4131389856) for details.
 
