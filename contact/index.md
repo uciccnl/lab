@@ -64,6 +64,7 @@ The building on the left (the short one) is the Social Science Lab, which houses
 
 ### The Walking Route
 <img class="img-fluid" src="/lab/static/img/map_to_lab_7.jpeg" alt="Map 7">
+<img class="img-fluid" src="/lab/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
 
 <!-- ### The Mission Bay Campus can be reached:  
 * #### Public Transportation:
