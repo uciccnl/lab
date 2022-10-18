@@ -8,7 +8,7 @@ position: 3rd year graduate student
 subsequent:
 pronouns: she/her
 email:  jungsun.yoo (at) uci.edu
-scholar: 
+scholar: https://scholar.google.com/citations?hl=en&user=RfaVfPcAAAAJ
 website: "https://jungsunyoo.github.io/"
 UCSF:
 twitter: jungsun_yoo
