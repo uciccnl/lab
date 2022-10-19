@@ -8,7 +8,7 @@ position: 2nd year graduate student
 subsequent:
 pronouns: they/them
 email:  ari.khoudary (at) uci.edu
-scholar: https://scholar.google.com/citations?user=1KlIO8EAAAAJ&hl=en
+scholar: https://scholar.google.com/citations?user=1KlIO8EAAAAJ&hl
 website: https://ari-khoudary.github.io/
 UCSF:
 twitter: ari_khoudary
