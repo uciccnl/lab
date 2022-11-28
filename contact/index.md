@@ -23,7 +23,7 @@ group: contact
 
   <h4>Contact Us </h4>
   email: uciccnl (at) gmail.com <br>
-  <--tel: 949 824 0254-->
+  tel: 949 824 0254
 
  </div>
 
