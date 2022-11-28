@@ -15,7 +15,7 @@ group: contact
   [Department of Cognitive Sciences](http://cogsci.uci.edu)<br>
   University of California Irvine, #202, Social Science Lab 334<br>
   Irvine, CA 92617<br>
-  <!-- tel: 415 502 3488 -->
+  <-- tel: 949 824 0254 -->
 
 </div>
 
