@@ -15,15 +15,15 @@ If you're interested in working in the lab, please send [Dr. Aaron Bornstein](ma
 [Specialist](https://aprecruit.ucsf.edu/JPF03325) who will engage in research projects and also manage daily wet lab operations. -->
 <!-- <br/> -->
 
-### Postdoc candidates: 
+#### Postdoc candidates: 
 
 Send the above information, and include two or three relevant manuscripts (preprints are ok).
 
-### PhD applicants: 
+#### PhD applicants: 
 
 Applications for the 2023 PhD cohort are <b>closed</b>. We do not yet know if we will be looking to work with new doctoral researchers in 2024. However, if you are considering applying for admission and would like to speak with Dr. Aaron Bornstein, please send the above information (plus manuscripts, if any).
 
-### Compensation
+#### Compensation:
 
 PhD and postdoctoral workers recently negotiated a new contract. Please see the [updated salary scales](https://www.ucop.edu/academic-personnel-programs/compensation/salary-scale-revisions.html) for information on pay ranges for these positions, and feel free to ask Dr. Aaron Bornstein if there are any questions.
 
@@ -31,7 +31,7 @@ PhD and postdoctoral workers recently negotiated a new contract. Please see the 
 
 <!-- Note: While I cannot serve as a primary advisor for any graduate program other than Cognitive Sciences, I am open to discussing plans for collaboration with faculty in your target department. Please name them in your introduction email. -->
 
-### UCI undergraduates: 
+#### UCI undergraduates: 
 
 UCI students may join the lab at any time, when there are available research projects. Refer to the [UROP posting](https://aaron.bornstein.org/urop.pdf) for details. Undergraduates are always welcome to attend lab meetings to learn more about our work. Advanced undergraduates may sign up for 199 course credit and/or an Honors project.
 
