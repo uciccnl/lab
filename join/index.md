@@ -21,13 +21,21 @@ Send the above information, and include two or three relevant manuscripts (prepr
 
 ### PhD applicants: 
 
-Applications for the 2023 PhD cohort are available beginning in September, 2022. If you would like to inquire about applying for admission in 2023, please send the above information (plus manuscripts, if any) and then apply via the [Cognitive Sciences graduate program](https://www.cogsci.uci.edu/graduate/) (deadline <b>December 1st</b>, 2022) or the [Medical Scientist Training Program](https://mstp.uci.edu/).
+Applications for the 2023 PhD cohort are <b>closed</b>. We do not yet know if we will be looking to work with new doctoral researchers in 2024. However, if you are considering applying for admission and would like to speak with Dr. Aaron Bornstein, please send the above information (plus manuscripts, if any).
 
-Note: While I cannot serve as a primary advisor for any graduate program other than Cognitive Sciences, I am open to discussing plans for collaboration with faculty in your target department. Please name them in your introduction email.
+### Compensation
+
+PhD and postdoctoral workers recently negotiated a new contract. Please see the [updated salary scales](https://www.ucop.edu/academic-personnel-programs/compensation/salary-scale-revisions.html) for information on pay ranges for these positions, and feel free to ask Dr. Aaron Bornstein if there are any questions.
+
+<!-- Applications for the 2023 PhD cohort are available beginning in September, 2022. If you would like to inquire about applying for admission in 2023, please send the above information (plus manuscripts, if any) and then apply via the [Cognitive Sciences graduate program](https://www.cogsci.uci.edu/graduate/) (deadline <b>December 1st</b>, 2022) or the [Medical Scientist Training Program](https://mstp.uci.edu/). -->
+
+<!-- Note: While I cannot serve as a primary advisor for any graduate program other than Cognitive Sciences, I am open to discussing plans for collaboration with faculty in your target department. Please name them in your introduction email. -->
 
 ### UCI undergraduates: 
 
-Refer to the [UROP posting](https://urop.due.uci.edu/urop/on_campus/on_campus_web_summary_detailed.asp?web_code=4131389856) for details.
+UCI students may join the lab at any time, when there are available research projects. Refer to the [UROP posting](https://aaron.bornstein.org/urop.pdf) for details. Undergraduates are always welcome to attend lab meetings to learn more about our work. Advanced undergraduates may sign up for 199 course credit and/or an Honors project.
+
+<!-- Refer to the [UROP posting](https://urop.due.uci.edu/urop/on_campus/on_campus_web_summary_detailed.asp?web_code=4131389856) for details. -->
 
 <!-- At UCSF, students can apply to a single [graduate program](https://graduate.ucsf.edu/programs) and do not apply directly to labs. During the first year of a Ph.D. program, students rotate through ~3 labs prior to deciding on a thesis lab. Our lab is usually open for rotation students every quarter and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year.
 
