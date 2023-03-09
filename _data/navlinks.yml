@@ -26,9 +26,9 @@
 #   link: "/lab/compact"
 #   group: compact
 
-- name: news
-  link: "/lab/news"
-  group: news
+# - name: news
+#  link: "/lab/news"
+#  group: news
 
 - name: join
   link: "/lab/join"
