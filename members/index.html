@@ -48,6 +48,10 @@ group: members
                   <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/lab/static/img/logo/gscholar_logo.svg"></a>
                   <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a> <br>
                 {% endif %}
+                {% if member.mastodon %}
+                  <a href="https://mastodon.social/"><img class="inline-block mem-icon" src="/lab/static/img/logo/mastodon_logo.svg"></a>
+                  <a href="https://mastodon.social/{{member.mastodon}}"> @{{member.mastodon}} </a> <br>
+                {% endif %}
                 {% if member.twitter %}
                   <a href="http://twitter.com"><img class="inline-block mem-icon" src="/lab/static/img/logo/twitter_logo.svg"></a>
                   <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
