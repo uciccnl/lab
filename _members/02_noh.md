@@ -1,0 +1,25 @@
+---
+name: Sharon Noh
+startdate: 2021-05-03
+enddate:
+image: /lab/static/img/members/noh.jpeg #365 x 365 pixels, 72 dpi, JPG
+altimage: /lab/static/img/members/noh.jpeg #365 x 365 pixels, 72 dpi, JPG
+position: Postdoctoral fellow
+subsequent:
+pronouns: #she/her
+email:  #angelika.arada (at) ucsf.edu
+scholar:
+website: "https://sites.google.com/view/sharonnoh/home"
+UCSF:
+twitter:
+linkedin: #angelikaarada
+github:
+orcid:
+description: "Sharon Noh received her Bachelor’s degree in psychobiology at UCLA and her Ph.D. in cognitive neuroscience at UT Austin. 
+
+
+Her research interests lie in identifying and understanding the conditions that improve long term learning and decision-making across the lifespan. 
+
+
+She is currently working on various projects investigating how memory processes influence planning and decision-making in older and younger adults using neuroimaging (fMRI) and computational modeling techniques. "
+---
