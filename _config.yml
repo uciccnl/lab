@@ -1,7 +1,7 @@
 name: "Computational Cognitive Neuroscience Lab"
 description: "This is the official web page for the CCN Lab at UCI."
 
-url: "https://uciccnl.github.io/lab/"
+url: "http://aaron.borntein.org/lab/"
 
 paginate: 5
 plugins: [jekyll-paginate]
