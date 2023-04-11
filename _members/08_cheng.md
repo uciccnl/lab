@@ -2,9 +2,9 @@
 name: Gloria Cheng
 startdate: 2022-08-22
 enddate:
-image: /lab/static/img/members/gloria_chen.jpeg #365 x 365 pixels, 72 dpi, JPG
-altimage: /lab/static/img/members/gloria_chen.jpeg #365 x 365 pixels, 72 dpi, JPG
-position: Campuswide Honors Collegium Student
+image: /lab/static/img/members/gloria.jpeg #365 x 365 pixels, 72 dpi, JPG
+altimage: /lab/static/img/members/gloria.jpeg #365 x 365 pixels, 72 dpi, JPG
+position: Campuswide Honors Collegium Student, Summer Undergraduate Research Fellow
 subsequent:
 pronouns: she/her
 email: chenggl (at) uci.edu

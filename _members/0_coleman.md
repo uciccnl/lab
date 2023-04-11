@@ -17,10 +17,8 @@ github:
 orcid:
 description: "Briana Coleman finished her Bachelors degree in 2022!
 
-
 She was a Campuswide Honors undergraduate student in Dr. Bornstein’s lab at the University of California, Irvine.
 Her interests lie in learning how anxiety can affect an individual's decision-making, and how this relationship is modulated by socioeconomic and demographic factors.
-
 
 Outside the lab, Briana enjoys reading books and training in Mixed Martial Arts including Muay Thai, Kickboxing, and Brazilian Jiu Jitsu."
 ---

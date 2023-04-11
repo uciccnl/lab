@@ -2,8 +2,8 @@
 name: Ari Khoudary
 startdate: 2021-10-01
 enddate:
-image: /lab/static/img/members/ari_khoudary.jpg #365 x 365 pixels, 72 dpi, JPG
-altimage: /lab/static/img/members/ari_khoudary.jpg #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/ari_khoudary.jpeg #365 x 365 pixels, 72 dpi, JPG
+altimage: /lab/static/img/members/ari_khoudary.jpeg #365 x 365 pixels, 72 dpi, JPG
 position: 2nd year graduate student
 subsequent:
 pronouns: they/them
