@@ -1,5 +1,5 @@
 ---
-name: Briana Coleman
+name: Brianna Sarcos
 startdate: 2021-05-03
 enddate: 2022-08-31
 image: /lab/static/img/members/sarcos.jpeg #365 x 365 pixels, 72 dpi, JPG
