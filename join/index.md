@@ -11,7 +11,7 @@ group: join
 <!--
 If you're interested in working in the lab, please send [Dr. Aaron Bornstein](mailto:aaron.bornstein@uci.edu) a <b>brief</b> (~2 paragraph) message describing your research experience and interests. Include a CV and email addresses of up to three references.
 -->
-We are not currently looking hire additional postdoctoral or doctoral researchers. If you think you might like to work 
+We are not currently looking to hire additional postdoctoral or doctoral researchers. If you think you might like to work 
 with us, please check back at a future date.
 <!-- We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. James Fraser](/contact). -->
 
