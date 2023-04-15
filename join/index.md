@@ -8,13 +8,18 @@ group: join
 <!-- Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment. -->
 <!-- ##### Read more about [our lab compact and philosophy.](/compact/) -->
 
+<!--
 If you're interested in working in the lab, please send [Dr. Aaron Bornstein](mailto:aaron.bornstein@uci.edu) a <b>brief</b> (~2 paragraph) message describing your research experience and interests. Include a CV and email addresses of up to three references.
+-->
+We are not currently looking hire additional postdoctoral or doctoral researchers. If you think you might like to work 
+with us, please check back at a future date.
 <!-- We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. James Fraser](/contact). -->
 
 <!-- Currently we have **open positions** for people with the following skills:
 [Specialist](https://aprecruit.ucsf.edu/JPF03325) who will engage in research projects and also manage daily wet lab operations. -->
 <!-- <br/> -->
 
+<!--
 #### Postdoc candidates: 
 
 Send the above information, and include two or three relevant manuscripts (preprints are ok).
@@ -26,6 +31,7 @@ Applications for the 2023 PhD cohort are <b>closed</b>. We do not yet know if we
 #### Compensation:
 
 PhD and postdoctoral workers recently negotiated a new contract. Please see the [updated salary scales](https://www.ucop.edu/academic-personnel-programs/compensation/salary-scale-revisions.html) for information on pay ranges for these positions, and feel free to ask Dr. Aaron Bornstein if there are any questions.
+-->
 
 <!-- Applications for the 2023 PhD cohort are available beginning in September, 2022. If you would like to inquire about applying for admission in 2023, please send the above information (plus manuscripts, if any) and then apply via the [Cognitive Sciences graduate program](https://www.cogsci.uci.edu/graduate/) (deadline <b>December 1st</b>, 2022) or the [Medical Scientist Training Program](https://mstp.uci.edu/). -->
 
@@ -33,7 +39,10 @@ PhD and postdoctoral workers recently negotiated a new contract. Please see the 
 
 #### UCI undergraduates: 
 
-UCI students may join the lab at any time, when there are available research projects. Refer to the [UROP posting](https://aaron.bornstein.org/urop.pdf) for details. Undergraduates are always welcome to attend lab meetings to learn more about our work. Advanced undergraduates may sign up for 199 course credit and/or an Honors project.
+UCI students may join the lab at any time, when there are available research projects. Undergraduates are always welcome to attend lab meetings to learn more about our work - reach out for details. Advanced undergraduates may sign up for 199 course credit and/or an Honors project.
+<!--
+Refer to the [UROP posting](https://aaron.bornstein.org/urop.pdf) for details. 
+-->
 
 <!-- Refer to the [UROP posting](https://urop.due.uci.edu/urop/on_campus/on_campus_web_summary_detailed.asp?web_code=4131389856) for details. -->
 
