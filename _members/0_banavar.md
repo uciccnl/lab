@@ -1,13 +1,13 @@
 ---
 name: Nidhi Banavar
 startdate: 2021-05-03
-enddate:
+enddate: 2023-08-28
 image: /lab/static/img/members/banavar.jpeg #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/banavar.jpeg #365 x 365 pixels, 72 dpi, JPG
-position: 5th year graduate student
+position: 
 subsequent:
 pronouns: she/her
-email:  #angelika.arada (at) ucsf.edu
+email:  
 scholar:
 website:
 UCSF:
@@ -15,5 +15,5 @@ twitter:
 linkedin: #angelikaarada
 github:
 orcid:
-description: "Nidhi is interested in how and why people make the decisions that they do."
+description: "Nidhi received her PhD in August 2023! Her next position will be as a postdoctoral researcher in political science at UC Berkeley."
 ---
