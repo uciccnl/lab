@@ -2,8 +2,8 @@
 name: Yifei Chen
 startdate: 2023-08-01
 enddate:
-image: /lab/static/img/members/chen.jpeg #365 x 365 pixels, 72 dpi, JPG
-altimage: /lab/static/img/members/chen.jpeg #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/chen.jpg #365 x 365 pixels, 72 dpi, JPG
+altimage: /lab/static/img/members/chen.jpg #365 x 365 pixels, 72 dpi, JPG
 position: Junior Research Specialist
 subsequent:
 pronouns: she/her
