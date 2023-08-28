@@ -2,7 +2,7 @@
 name: Dale Zhou
 startdate: 2023-08-15
 enddate:
-image: /lab/static/img/members/dalezhou.jpeg 
+image: /lab/static/img/members/dalezhou.jpg 
 altimage: /lab/static/img/members/dalezhou.jpg 
 position: Postdoctoral fellow
 subsequent:
