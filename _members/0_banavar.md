@@ -2,8 +2,8 @@
 name: Nidhi Banavar
 startdate: 2021-05-03
 enddate: 2023-08-28
-image: /lab/static/img/members/banavar.jpeg #365 x 365 pixels, 72 dpi, JPG
-altimage: /lab/static/img/members/banavar.jpeg #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/nidhiknife.jpg # /lab/static/img/members/banavar.jpeg #365 x 365 pixels, 72 dpi, JPG
+altimage: /lab/static/img/members/nidhiknife.jpg # /lab/static/img/members/banavar.jpeg #365 x 365 pixels, 72 dpi, JPG
 position: 
 subsequent:
 pronouns: she/her
