@@ -6,8 +6,8 @@ image: /lab/static/img/members/noh.jpeg #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/noh.jpeg #365 x 365 pixels, 72 dpi, JPG
 position: Postdoctoral fellow
 subsequent:
-pronouns: #she/her
-email:  #angelika.arada (at) ucsf.edu
+pronouns: she/her
+email:  nohsm (at) uci.edu
 scholar:
 website: "https://sites.google.com/view/sharonnoh/home"
 UCSF:
