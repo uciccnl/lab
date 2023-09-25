@@ -4,7 +4,7 @@ startdate: 2019-09-15
 enddate:
 image: /lab/static/img/members/harhen.jpeg #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/harhen.jpeg #365 x 365 pixels, 72 dpi, JPG
-position: 4th year graduate student
+position: 5th year graduate student
 subsequent:
 pronouns: she/her
 email:  #angelika.arada (at) ucsf.edu
