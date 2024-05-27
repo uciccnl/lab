@@ -19,6 +19,7 @@ description: "Dale Zhou received Bachelor’s degrees in philosophy and psycholo
 He is interested in how the brain network compresses and reconstructs information as network structure changes across the lifespan.
 He aims to account for computations of memory and reward as network functions of dimensionality reduction and expansion using experimental, naturalistic, and clinical data.
 
+
 Outside of the lab, Dale enjoys reading, movies, and urging his cat to practice gratitude. He shares a birthday with Elvis and David Bowie, so dutifully carries out their musical legacy with 
 the violin, guitar, and throat-singing."
 ---
