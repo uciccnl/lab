@@ -20,10 +20,8 @@ description: "Aaron Bornstein is an Assistant Professor in the Department of Cog
 Center for Theoretical Behavioral Sciences. His lab's work investigates how behavior optimally adapts to experience and context at multiple timescales and across the lifespan. His professional aspiration is to contribute to the 
 critical examination of concepts of psychological and biological normativity. 
 
-
-Outside of the lab, he has taught high school in Jerusalem and college in US federal prison; both included some of the best students he will ever know.
-
-
 He is originally from New York, and spent time in Boston and San Francisco before settling in his current home of Los 
 Angeles, where he enjoys being an incongruous pedestrian and living at the service of his two cats."
 ---
+#Outside of the lab, he has taught high school in Jerusalem and college in US federal prison; both included some of the best students he will ever know.
+
