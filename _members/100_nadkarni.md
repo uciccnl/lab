@@ -1,7 +1,7 @@
 ---
 name: Mohit Nadkarni
 startdate: 2022-08-22
-enddate:
+enddate: 2024-08-01
 image: /lab/static/img/members/mohit.jpeg #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/mohit.jpeg #365 x 365 pixels, 72 dpi, JPG
 position: Junior Research Specialist

@@ -1,7 +1,7 @@
 ---
 name: Yifei Chen
 startdate: 2023-08-01
-enddate:
+enddate: 2024-08-01
 image: /lab/static/img/members/chen.jpg #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/chen.jpg #365 x 365 pixels, 72 dpi, JPG
 position: Junior Research Specialist
