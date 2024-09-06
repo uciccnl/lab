@@ -1,7 +1,7 @@
 ---
 name: Bianca Leonard
 startdate: 2022-09-1
-enddate: 2026-05-1
+enddate: 
 image: /lab/static/img/members/Leonard.jpg 
 altimage: /lab/static/img/members/LastName_pb.jpg 
 position: Graduate Student
