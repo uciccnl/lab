@@ -3,14 +3,14 @@ name: Bianca Leonard
 startdate: 2022-09-1
 enddate: 
 image: /lab/static/img/members/Leonard.jpg 
-altimage: /lab/static/img/members/LastName_pb.jpg 
+#altimage: /lab/static/img/members/LastName_pb.jpg 
 position: Graduate Student
-subsequent:  
+#subsequent:  
 pronouns: she/her/hers 
 email: btleonar@uci.edu 
 scholar: EhZ5BuMAAAAJ 
-website: 
-UCSF:  
+#website: 
+#UCSF:  
 twitter: Bia_Leonard
 linkedin: bianca-leonard
 github: bia-leo
