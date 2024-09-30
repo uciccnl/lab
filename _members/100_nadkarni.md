@@ -20,6 +20,7 @@ description: "Mohit received his B.S. in Neuroscience from the University of Tex
 
 After graduating, he chose to further explore his passions and interests in research. He’s interested in learning more about how decision making is effected by age, and the conditions of learning and decision-making across ones lifespan that could be improved.
 
+Mohit's next position after leaving the CCNL is as Clinical Research Associate, Texas Center for Pediatric and Congenital Heart Disease, Department of Pediatrics, Dell Medical School at the University of Texas, Austin.
 
 Outside the lab, Mohit enjoys reading running, chess, and yelping!"
 ---
