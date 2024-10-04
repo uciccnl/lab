@@ -4,7 +4,7 @@ startdate: 2021-10-01
 enddate:
 image: /lab/static/img/members/khoudary.jpeg #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/khoudary.jpeg #365 x 365 pixels, 72 dpi, JPG
-position: 3rd year graduate student
+position: 4th year graduate student
 subsequent:
 pronouns: they/them
 email:  ari.khoudary (at) uci.edu
