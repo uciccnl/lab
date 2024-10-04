@@ -18,6 +18,10 @@
   link: "/lab/members"
   group: members
 
+- name: memories
+  link: "/lab/memories"
+  group: memories
+
 # - name: teaching
 #   link: "/lab/courses"
 #   group: courses
