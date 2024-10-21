@@ -15,19 +15,22 @@ If you're interested in working in the lab, please send [Dr. Aaron Bornstein](ma
 We are not currently looking to hire additional full-time research staff, doctoral, or postdoctoral researchers. If 
 you think you might like to work with us, please check back at a future date.
 -->
-<!-- We are open to recruiting a graduate researcher this coming application cycle.
+<!--
+Applications for the 2024 PhD cohort are closed. If you're interested in working in <a href="lab/index.html">the lab</a> in the future, please send me a <b>brief</b> (~2 paragraph) message describing your research experience and interests. Include a CV and email addresses of up to three references.
+-->
+
+We are looking to recruit a graduate researcher this coming application cycle.
 <br/>&nbsp;<br/>
 If you're interested in working in <a href="lab/index.html">the lab</a>, please send me a <b>brief</b> (~2 paragraph) message describing your research experience and interests.
 Include a CV and email addresses of up to three references.
 <br/>&nbsp;<br/>
-You can apply via the <a href="https://www.cogsci.uci.edu/graduate/">Cognitive Sciences graduate program</a> (deadline <b>December 1st, 2023</b>)
+You can apply via the <a href="https://www.cogsci.uci.edu/graduate/">Cognitive Sciences graduate program</a> (deadline <b>December 1st, 2024</b>)
     or the <a href="https://mstp.uci.edu/">Medical Scientist Training Program</a>.
     Note: While I cannot serve as a primary advisor for any graduate program other than Cognitive Sciences, I am open to discussing plans for collaboration with faculty in your target department.
-    Please name them in your introduction email. -->
+    Please name them in your introduction email.
 
-Applications for the 2024 PhD cohort are closed. If you're interested in working in <a href="lab/index.html">the lab</a> in the future, please send me a <b>brief</b> (~2 paragraph) message describing your research experience and interests. Include a CV and email addresses of up to three references.
- 
-<!-- UCI undergraduates: UCI students may join the lab at any time, when there are available research projects. Undergraduates are always welcome to attend lab meetings to learn more about our work - reach out for details. Advanced undergraduates may sign up for 199 course credit and/or an Honors project.     -->
+<br/>&nbsp;<br/>
+UCI undergraduates: UCI students may join the lab at any time, when there are available research projects. Undergraduates are always welcome to attend lab meetings to learn more about our work - reach out for details. Advanced undergraduates may sign up for 199 course credit and/or an Honors project.
 
 <!-- We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. James Fraser](/contact). -->
 
