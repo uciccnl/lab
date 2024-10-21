@@ -29,8 +29,10 @@ You can apply via the <a href="https://www.cogsci.uci.edu/graduate/">Cognitive S
     Note: While I cannot serve as a primary advisor for any graduate program other than Cognitive Sciences, I am open to discussing plans for collaboration with faculty in your target department.
     Please name them in your introduction email.
 
+<!--
 <br/>&nbsp;<br/>
 UCI undergraduates: UCI students may join the lab at any time, when there are available research projects. Undergraduates are always welcome to attend lab meetings to learn more about our work - reach out for details. Advanced undergraduates may sign up for 199 course credit and/or an Honors project.
+-->
 
 <!-- We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. James Fraser](/contact). -->
 
