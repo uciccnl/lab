@@ -34,7 +34,7 @@ Mohit was knighted!
 <br><br>
 
 ##### Oct 2023: Lab Halloween costume: Army of Aarons<br>
-(Left to right) morning Aaron, afternoon Aaron, afterhour Aaron
+(Left to right) morning Aaron, afternoon Aaron, afterhour Aaron<br><br>
 <img class="img-fluid" src="/lab/static/img/memories/army_of_aarons.jpg" alt="First map" style="width: 500px; height: auto;"> <br><br>
 
 
