@@ -12,9 +12,10 @@ As a lab interested in reinforcement learning (RL), we explored model-based and 
 <img class="img-fluid" src="/lab/static/img/memories/bowling1.jpg" alt="First map" style="width: 500px; height: auto;">
 <img class="img-fluid" src="/lab/static/img/memories/bowling2.jpg" alt="First map" style="width: 500px; height: auto;">
 
+<br><br>
+
 ##### July 2024: Lab outing to Medieval Times.<br>
 
-<!-- <img class="img-fluid" src="/lab/static/img/memories/mohit_knighted.jpg" alt="First map" style="width: 300px; height: auto;"> -->
 Mohit was knighted!<br>
 <img class="img-fluid" src="/lab/static/img/memories/mohit_knighted.jpg" alt="First map" style="width: 500px; height: auto;"><br><br><br>
 Group pic of House Bornstein with Lord Mohit.<br>
