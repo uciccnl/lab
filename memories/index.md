@@ -15,12 +15,12 @@ As a lab interested in reinforcement learning (RL), we explored model-based and 
 ##### July 2024: Lab outing to Medieval Times.<br>
 
 <!-- <img class="img-fluid" src="/lab/static/img/memories/mohit_knighted.jpg" alt="First map" style="width: 300px; height: auto;"> -->
-Mohit was knighted!<br>
-<img class="img-fluid" src="/lab/static/img/memories/mohit_knighted.jpg" alt="First map" style="width: 500px; height: auto;">
-Lab group pic with Lord Mohit.<br>
-<img class="img-fluid" src="/lab/static/img/memories/medieval_group_pic.jpg" alt="First map" style="width: 500px; height: auto;">
-Aaron performing decision making under risk and uncertainty.<br>
-<img class="img-fluid" src="/lab/static/img/memories/trespassing.PNG" alt="First map" style="width: 500px; height: auto;">
+Mohit was knighted!<br><br>
+<img class="img-fluid" src="/lab/static/img/memories/mohit_knighted.jpg" alt="First map" style="width: 500px; height: auto;"><br><br><br>
+Lab group pic with Lord Mohit.<br><br>
+<img class="img-fluid" src="/lab/static/img/memories/medieval_group_pic.jpg" alt="First map" style="width: 500px; height: auto;"><br><br><br>
+Aaron performing decision making under risk and uncertainty.<br><br>
+<img class="img-fluid" src="/lab/static/img/memories/trespassing.PNG" alt="First map" style="width: 500px; height: auto;"><br><br><br>
 
 <br><br>
 
