@@ -17,7 +17,7 @@ As a lab interested in reinforcement learning (RL), we explored model-based and 
 <!-- <img class="img-fluid" src="/lab/static/img/memories/mohit_knighted.jpg" alt="First map" style="width: 300px; height: auto;"> -->
 Mohit was knighted!<br>
 <img class="img-fluid" src="/lab/static/img/memories/mohit_knighted.jpg" alt="First map" style="width: 500px; height: auto;"><br><br><br>
-Lab group pic with Lord Mohit.<br>
+Group pic of House Bornstein with Lord Mohit.<br>
 <img class="img-fluid" src="/lab/static/img/memories/medieval_group_pic.jpg" alt="First map" style="width: 500px; height: auto;"><br><br><br>
 Aaron performing decision making under risk and uncertainty.<br>
 <img class="img-fluid" src="/lab/static/img/memories/trespassing.PNG" alt="First map" style="width: 500px; height: auto;"><br><br><br>
@@ -30,6 +30,8 @@ Congrats, Dr. Harhen!<br>
 
 <img class="img-fluid" src="/lab/static/img/memories/nora_defense2.jpg" alt="First map" style="width: 500px; height: auto;">
 
+<br><br>
+
 ##### Nov 2023: Happy Thanksgiving from the Bornstein lab!<br>
 Bornstein lab on a hypothetical roller coaster.<br>
 <img class="img-fluid" src="/lab/static/img/memories/thanksgiving2023.jpg" alt="First map" style="width: 500px; height: auto;"> 
@@ -37,7 +39,7 @@ Bornstein lab on a hypothetical roller coaster.<br>
 <br><br>
 
 ##### Oct 2023: Lab Halloween costume: Army of Aarons<br>
-(Left to right) morning Aaron, afternoon Aaron, afterhour Aaron<br>
+(Left to right) Morning Aaron, afternoon Aaron, afterhour Aaron<br>
 <img class="img-fluid" src="/lab/static/img/memories/army_of_aarons.jpg" alt="First map" style="width: 500px; height: auto;"> <br><br>
 
 
