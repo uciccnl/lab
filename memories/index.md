@@ -7,12 +7,13 @@ group: memories
 # Memories of CCN Lab<br>
 
 ##### Oct 2024: Lab outing to Irvine Lanes.<br>
-As a lab interested in reinforcement learning (RL), we explored model-based and model-free RL, as well as open- vs. closed-loop skills in real life. Which strategy works well for you?<br>
+We explored open- vs. closed-loop skills in real life... <br/>
+# Which strategy works well for you?<br>
 
 <img class="img-fluid" src="/lab/static/img/memories/bowling1.jpg" alt="First map" style="width: 500px; height: auto;">
 <img class="img-fluid" src="/lab/static/img/memories/bowling2.jpg" alt="First map" style="width: 500px; height: auto;">
 <br/>
-... while Jerry contemplated the abyss<br/>
+... while Jerry contemplated even deeper questions.<br/>
 <img class="img-fluid" src="/lab/static/img/memories/jerry_sin.jpeg" alt="First map" style="width: 500px; height: auto;">
 <br><br>
 
