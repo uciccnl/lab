@@ -11,7 +11,9 @@ As a lab interested in reinforcement learning (RL), we explored model-based and 
 
 <img class="img-fluid" src="/lab/static/img/memories/bowling1.jpg" alt="First map" style="width: 500px; height: auto;">
 <img class="img-fluid" src="/lab/static/img/memories/bowling2.jpg" alt="First map" style="width: 500px; height: auto;">
-
+<br/>
+... while Jerry contemplated the abyss<br/>
+<img class="img-fluid" src="/lab/static/img/memories/jerry_sin.jpeg" alt="First map" style="width: 500px; height: auto;">
 <br><br>
 
 ##### July 2024: Lab outing to Medieval Times.<br>
