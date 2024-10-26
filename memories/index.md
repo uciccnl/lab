@@ -8,7 +8,6 @@ group: memories
 
 ##### Oct 2024: Lab outing to Irvine Lanes.<br>
 We explored open- vs. closed-loop skills in real life... <br/>
-# Which strategy works well for you?<br>
 
 <img class="img-fluid" src="/lab/static/img/memories/bowling1.jpg" alt="First map" style="width: 500px; height: auto;">
 <img class="img-fluid" src="/lab/static/img/memories/bowling2.jpg" alt="First map" style="width: 500px; height: auto;">
