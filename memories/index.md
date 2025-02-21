@@ -10,7 +10,7 @@ group: memories
 This month, we decided to visit an escape room together. Due to fantastic teamwork, we escaped within time!<br>
 <img class="img-fluid" src="/lab/static/img/memories/escape_room_solving.jpeg" alt="First map" style="width: 500px; height: auto;">
 <img class="img-fluid" src="/lab/static/img/memories/escape_selfie.jpeg" alt="First map" style="width: 500px; height: auto;"><br><br>
-How many Ph.Ds does it take to escape a prison? ;)<br>
+How many Ph.D.s does it take to escape a prison? ;)<br>
 <img class="img-fluid" src="/lab/static/img/memories/escape_grouppic.jpeg" alt="First map" style="width: 750px; height: auto;"><br><br>
 
 ##### Jan 2025: Lab picnic and bocce.<br>
@@ -23,7 +23,7 @@ The title of the exhibition was "Future Tense: Art, Complexity, and Uncertainty,
 <img class="img-fluid" src="/lab/static/img/memories/aaron_art.jpeg" alt="First map" style="width: 500px; height: auto;">
 <img class="img-fluid" src="/lab/static/img/memories/do_not_exist.jpeg" alt="First map" style="width: 500px; height: auto;"><br><br>
 <img class="img-fluid" src="/lab/static/img/memories/jungsun_immersive.jpeg" alt="First map" style="width: 500px; height: auto;">
-<!-- <br><br> -->
+<br><br>
 <!-- "We do not exist": us among AI created faces.<br> -->
 
 
