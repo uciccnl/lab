@@ -32,6 +32,7 @@ The title of the exhibition was "Future Tense: Art, Complexity, and Uncertainty,
 Jungsun and Ari hosted <i>Manito</i>, a Korean version of Secret Santa. We were glad to see everyone happy with the small but memorable gifts they received from their Manito!<br>
 <!-- <img class="img-fluid" src="/lab/static/img/memories/manito_mc.jpg" alt="First map" style="width: 500px; height: auto;"><br><br> -->
 <!-- Manito-Manitee pairs.<br> -->
+<img class="img-fluid" src="/lab/static/img/memories/jungsun_ari.jpeg" alt="First map" style="width: 500px; height: auto;">
 <img class="img-fluid" src="/lab/static/img/memories/polaroid.jpeg" alt="First map" style="width: 500px; height: auto;"><br><br>
 A normal group pic, and of course, us being silly. <br>
 <img class="img-fluid" src="/lab/static/img/memories/christmas_grouppic_normal.jpeg" alt="First map" style="width: 500px; height: auto;">
