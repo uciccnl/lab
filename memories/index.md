@@ -10,12 +10,12 @@ group: memories
 This month, we decided to visit an escape room together. Due to fantastic teamwork, we escaped within time!<br>
 <img class="img-fluid" src="/lab/static/img/memories/escape_room_solving.jpeg" alt="First map" style="width: 500px; height: auto;">
 <img class="img-fluid" src="/lab/static/img/memories/escape_selfie.jpeg" alt="First map" style="width: 500px; height: auto;"><br><br>
-How many Ph.Ds does it take to escape a prison?
-<img class="img-fluid" src="/lab/static/img/memories/escape_grouppic.jpeg" alt="First map" style="width: 500px; height: auto;"><br><br>
+How many Ph.Ds does it take to escape a prison? ;)<br>
+<img class="img-fluid" src="/lab/static/img/memories/escape_grouppic.jpeg" alt="First map" style="width: 750px; height: auto;"><br><br>
 
 ##### Jan 2025: Lab picnic and bocce.<br>
 We did a lab picnic and played bocce at Aldrich park. <br> 
-<img class="img-fluid" src="/lab/static/img/memories/lab_picnic_bocce.jpg" alt="First map" style="width: 500px; height: auto;"><br><br>
+<img class="img-fluid" src="/lab/static/img/memories/lab_picnic_bocce.jpg" alt="First map" style="width: 750px; height: auto;"><br><br>
 
 
 ##### Dec 2024: Lab outing to an art exhibit.<br>
