@@ -21,5 +21,5 @@ description: "Shensheng Wang received his Bachelor’s degree in Psychology from
 His research focuses on humanness perception and social decision making across the lifespan. 
 
 
-At the University of Central Florida, he works with Dr. Nichole Lighthall (UCF), Dr. Robert Wilson (Georgia Institute of technology), and Dr. Natalie Ebner (University of Florida) on projects that examine the psychological and neural mechanisms of trust-related learning and decision making in aging. With the support from the SRNDNA Collaboration Award, Shensheng will work with Dr. Aaron Bornstein on projects investigating how memory deficits in older adults with mild cognitive impairment (MCI) affect decision-making dynamics at the neural and behavioral levels."
+At the University of Central Florida, he works with Dr. Nichole Lighthall (UCF), Dr. Robert Wilson (Georgia Institute of Technology), and Dr. Natalie Ebner (University of Florida) on projects that examine the psychological and neural mechanisms of trust-related learning and decision making in aging. With the support from the SRNDNA Collaboration Award, Shensheng will work with Dr. Aaron Bornstein on projects investigating how memory deficits in older adults with mild cognitive impairment (MCI) affect decision-making dynamics at the neural and behavioral levels."
 ---
