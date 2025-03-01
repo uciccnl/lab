@@ -15,13 +15,11 @@ twitter:
 linkedin: "https://www.linkedin.com/in/shensheng-wang-28702570/"
 github:
 orcid:
-description: "Shensheng Wang received his Bachelor’s degree in psychobiology from Nankai University and Ph.D. in Psychology from Emory University. 
+description: "Shensheng Wang received his Bachelor’s degree in Psychology from Nankai University and Ph.D. in Psychology from Emory University. 
 
 
 His research focuses on humanness perception and social decision making across the lifespan. 
 
 
-At the University of Central Florida, he works with Dr. Nichole Lighthall (UCF), Dr. Robert Wilson (Georgia Institute of technology), and Dr. Natalie Ebner (University of Florida) on projects that examine the psychological and neural mechanisms of trust-related learning and decision making in normal aging and older adults at risk for developing Alzheimer’s disease.
-
-With support from the SRNDNA Collaboration Award, Shensheng will work with Dr. Aaron Bornstein on projects investigating examine how memory deficits in older adults with mild cognitive impairment (MCI) affect decision-making dynamics at the neural and behavioral levels."
+At the University of Central Florida, he works with Dr. Nichole Lighthall (UCF), Dr. Robert Wilson (Georgia Institute of technology), and Dr. Natalie Ebner (University of Florida) on projects that examine the psychological and neural mechanisms of trust-related learning and decision making in aging. With the support from the SRNDNA Collaboration Award, Shensheng will work with Dr. Aaron Bornstein on projects investigating how memory deficits in older adults with mild cognitive impairment (MCI) affect decision-making dynamics at the neural and behavioral levels."
 ---
