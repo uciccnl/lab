@@ -9,10 +9,10 @@ subsequent:
 pronouns: 
 email:  shensheng.wang (at) ucf.edu
 scholar:
-website: "https://www.researchgate.net/profile/Shensheng-Wang?ev=hdr_xprf"
+website: https://www.researchgate.net/profile/Shensheng-Wang?ev=hdr_xprf
 UCSF:
 twitter:
-linkedin: "https://www.linkedin.com/in/shensheng-wang-28702570/"
+linkedin: 
 github:
 orcid:
 description: "Shensheng Wang received his Bachelor’s degree in Psychology from Nankai University and Ph.D. in Psychology from Emory University. 
