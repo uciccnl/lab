@@ -9,7 +9,7 @@ subsequent:
 pronouns: 
 email:  shensheng.wang (at) ucf.edu
 scholar:
-website: https://www.researchgate.net/profile/Shensheng-Wang?ev=hdr_xprf
+website: https://shenshengwang.wixsite.com/shenshengwang
 UCSF:
 twitter:
 linkedin: 
