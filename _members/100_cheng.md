@@ -15,5 +15,5 @@ twitter:
 linkedin: 
 github: 
 orcid:
-description: "Gloria received her bachelors degree, with Honors, in Cognitive Sciences at UC Irvine in June 2023. She then moved on to work as a lab manager at Stanford University. Her research interests focus on how people make decisions to optimize reward based on their memory of previous decisions. In the outside world, Gloria enjoys baking new recipes and spending time with her cat, Oligarchy."
+description: "Gloria received her bachelors degree, with Honors, in Cognitive Sciences at UC Irvine in June 2023. She then moved on to work as a lab manager at Stanford University. In Fall 2025, she will start working towards her PhD at the University of Southern California. Her research interests focus on how people make decisions to optimize reward based on their memory of previous decisions. In the outside world, Gloria enjoys baking new recipes and spending time with her cat, Oligarchy."
 ---
