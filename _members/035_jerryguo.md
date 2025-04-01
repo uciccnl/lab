@@ -2,7 +2,8 @@
 name: Jerry(Jianle) Guo
 startdate: 2023-05-01
 enddate:
-image: /lab/static/img/members/jerryguo.jpg
+# image: /lab/static/img/members/jerryguo.jpg
+image: /lab/static/img/members/ghibli_jerry.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/jerryguo.jpg #365 x 365 pixels, 72 dpi, JPG
 position: Psychology(B.S.) Honors Student
 subsequent:

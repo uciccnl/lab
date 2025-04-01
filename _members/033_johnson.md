@@ -2,7 +2,8 @@
 name: Meghan Johnson
 startdate: 2024-08-19
 enddate:
-image: /lab/static/img/members/johnson.jpg
+# image: /lab/static/img/members/johnson.jpg
+image: /lab/static/img/members/ghibli_meghan.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/johnson.jpg #365 x 365 pixels, 72 dpi, JPG
 position: Psychology Honors Student, Summer Undergraduate Research Fellow
 subsequent:
