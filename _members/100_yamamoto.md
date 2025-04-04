@@ -1,7 +1,7 @@
 ---
 name: Ami Yamamoto
 startdate: 2023-06-01
-enddate:
+enddate: 2024-06-13
 # image: /lab/static/img/members/yamamoto.jpg
 image: /lab/static/img/members/yamamoto.jpg #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/yamamoto.jpg #365 x 365 pixels, 72 dpi, JPG
