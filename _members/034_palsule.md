@@ -14,7 +14,7 @@ website:
 UCSF:
 twitter: 
 linkedin: 
-github: 
+github: RohinPalsule
 orcid:
 description: "My name is Rohin Palsule and I am a 4th year Cognitive Sciences major at UCI! The research I am interested in relates to how episodic memory is stored in different graph-structured associative networks, and how those networks impact decision-making. Besides my research, I enjoy bouldering, playing soccer, and trying new restaurants in my local area."
 ---
