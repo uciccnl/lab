@@ -23,7 +23,7 @@ We went to Boomers and had a lot of fun. <br>
 
 ##### Feb 2025: Lab outing to an escape room.
 This month, we decided to visit an escape room together. Due to fantastic teamwork, we escaped within time!<br>
-<img class="img-fluid" src="/lab/static/img/memories/escape_room_solving.jpeg" alt="First map" style="width: 500px; height: auto;">
+<img class="img-fluid" src="/lab/static/img/memories/escape_room_solving.jpeg" alt="First map" style="width: 500px; height: auto;"><br><br>
 <!-- <img class="img-fluid" src="/lab/static/img/memories/escape_selfie.jpeg" alt="First map" style="width: 500px; height: auto;"><br><br> -->
 How many Ph.D.s does it take to escape a prison? ;)<br>
 <img class="img-fluid" src="/lab/static/img/memories/escape_grouppic.jpeg" alt="First map" style="width: 750px; height: auto;"><br><br>
