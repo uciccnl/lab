@@ -16,7 +16,7 @@ Ari, Alexa, and Jungsun participated in the second CogSci Bakeoff! We had fun th
 It's amazing that the beach is only 10 minute drive away.
 <img class="img-fluid" src="/lab/static/img/memories/lab_huntington.jpeg" alt="First map" style="width: 750px; height: auto;"><br><br>
 
-##### Apr 2025: Lab outing to Boomers!.<br>
+##### Apr 2025: Lab outing to Boomers!<br>
 We went to Boomers and had a lot of fun. <br> 
 <img class="img-fluid" src="/lab/static/img/memories/lab_boomers.jpeg" alt="First map" style="width: 750px; height: auto;"><br><br>
 
