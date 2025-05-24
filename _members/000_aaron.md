@@ -17,7 +17,7 @@ twitter: urrational
 linkedin: #angelikaarada
 github:
 orcid: 0000-0001-6251-6000
-description: "Aaron Bornstein is an Assistant Professor in the Department of Cognitive Sciences at the University of California, Irvine, where he is affiliated with the Center for the Neurobiology of Learning and Memory and the 
+description: "Aaron Bornstein is an Associate Professor in the Department of Cognitive Sciences at the University of California, Irvine, where he is affiliated with the Center for the Neurobiology of Learning and Memory and the 
 Center for Theoretical Behavioral Sciences. His lab's work investigates how behavior optimally adapts to experience and context at multiple timescales and across the lifespan. His professional aspiration is to contribute to the 
 critical examination of concepts of psychological and biological normativity. 
 
