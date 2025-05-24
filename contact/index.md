@@ -30,7 +30,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Aaron Bornstein, Ph.D.</h4>
-  Assistant Professor<br>
+  Associate Professor<br>
   [Department of Cognitive Sciences](http://cogsci.uci.edu)<br>
   [Center for the Neurobiology of Learning and Memory](http://cnlm.uci.edu)<br>
 <!--   214 Pereira Dr, Social & Behavioral Sciences Gateway<br>
