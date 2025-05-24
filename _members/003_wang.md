@@ -2,8 +2,8 @@
 name: Shensheng Wang
 startdate: 2025-01-15
 enddate:
-# image: /lab/static/img/members/shensheng.jpg #365 x 365 pixels, 72 dpi, JPG
-image: /lab/static/img/members/ghibli_shensheng.png #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/shensheng.jpg #365 x 365 pixels, 72 dpi, JPG
+# image: /lab/static/img/members/ghibli_shensheng.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/shensheng.jpg #365 x 365 pixels, 72 dpi, JPG
 position: Postdoc 
 subsequent:

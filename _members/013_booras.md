@@ -2,8 +2,8 @@
 name: Alexa Booras
 startdate: 2023-09-15
 enddate:
-# image: /lab/static/img/members/booras.jpeg #365 x 365 pixels, 72 dpi, JPG
-image: /lab/static/img/members/ghibli_alexa.png #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/booras.jpeg #365 x 365 pixels, 72 dpi, JPG
+# image: /lab/static/img/members/ghibli_alexa.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/booras.jpeg #365 x 365 pixels, 72 dpi, JPG
 position: 2nd year graduate student
 subsequent:

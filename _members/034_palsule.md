@@ -2,8 +2,8 @@
 name: Rohin Palsule
 startdate: 2023-11-14
 enddate:
-# image: /lab/static/img/members/palsule.jpg
-image: /lab/static/img/members/ghibli_rohin.png #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/palsule.jpg
+# image: /lab/static/img/members/ghibli_rohin.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/palsule.jpg #365 x 365 pixels, 72 dpi, JPG
 position: Cognitive Sciences Honors Student, Summer Undergraduate Research Fellow
 subsequent:

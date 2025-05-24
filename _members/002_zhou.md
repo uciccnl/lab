@@ -2,8 +2,8 @@
 name: Dale Zhou
 startdate: 2023-08-15
 enddate:
-# image: /lab/static/img/members/dalezhou.jpg 
-image: /lab/static/img/members/ghibli_dale.png #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/dalezhou.jpg 
+# image: /lab/static/img/members/ghibli_dale.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/dalezhou.jpg 
 position: Postdoctoral fellow
 subsequent:

@@ -2,10 +2,10 @@
 name: Aaron Bornstein
 startdate: 2019-01-01
 enddate:
-# image: /lab/static/img/members/aaron.jpeg #365 x 365 pixels, 72 dpi, JPG
-image: /lab/static/img/members/ghibli_aaron.png #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/aaron.jpeg #365 x 365 pixels, 72 dpi, JPG
+# image: /lab/static/img/members/ghibli_aaron.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/aaron.jpeg #365 x 365 pixels, 72 dpi, JPG
-position: Assistant Professor
+position: Associate Professor
 subsequent:
 pronouns: he/him
 email:  aaron.bornstein (at) uci.edu

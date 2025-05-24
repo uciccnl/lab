@@ -2,8 +2,8 @@
 name: Qiyan(Apple) Ye
 startdate: 2023-10-10
 enddate:
-# image: /lab/static/img/members/Qiyanye.jpg
-image: /lab/static/img/members/ghibli_apple.png #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/Qiyanye.jpg
+# image: /lab/static/img/members/ghibli_apple.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/Qiyanye.jpg #365 x 365 pixels, 72 dpi, JPG
 position: Research Assistant
 subsequent:

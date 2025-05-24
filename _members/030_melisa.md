@@ -2,8 +2,8 @@
 name: Melisa Azimihashemi
 startdate: 2023-06-01
 enddate:
-# image: /lab/static/img/members/melisa.jpg
-image: /lab/static/img/members/ghibli_melisa.png #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/melisa.jpg
+# image: /lab/static/img/members/ghibli_melisa.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/melisa.jpg #365 x 365 pixels, 72 dpi, JPG
 position: Cognitive Sciences Honors Student
 subsequent:

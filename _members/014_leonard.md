@@ -2,8 +2,8 @@
 name: Bianca Leonard
 startdate: 2022-09-01
 enddate: 
-# image: /lab/static/img/members/Leonard.jpg #365 x 365 pixels, 72 dpi, JPG
-image: /lab/static/img/members/ghibli_bianca.png #365 x 365 pixels, 72 dpi, JPG
+image: /lab/static/img/members/Leonard.jpg #365 x 365 pixels, 72 dpi, JPG
+# image: /lab/static/img/members/ghibli_bianca.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/Leonard.jpg #365 x 365 pixels, 72 dpi, JPG
 position: Graduate Student
 #subsequent:  

@@ -6,6 +6,21 @@ group: memories
 
 # Memories of CCN Lab<br>
 
+##### Apr 2025: The Great CogSci Bakeoff.<br>
+<!-- We went to Boomers and had a lot of fun. <br>  -->
+Ari, Alexa, and Jungsun participated in the second CogSci Bakeoff! We had fun three weeks, thanks to our leader Ari.
+<img class="img-fluid" src="/lab/static/img/memories/lab_bakeoff.jpeg" alt="First map" style="width: 750px; height: auto;"><br><br>
+
+##### Apr 2025: Lab outing to Huntington Beach.<br>
+<!-- We went to Boomers and had a lot of fun. <br>  -->
+It's amazing that the beach is only 10 minute drive away.
+<img class="img-fluid" src="/lab/static/img/memories/lab_huntington.jpeg" alt="First map" style="width: 750px; height: auto;"><br><br>
+
+##### Apr 2025: Lab outing to Boomers!.<br>
+We went to Boomers and had a lot of fun. <br> 
+<img class="img-fluid" src="/lab/static/img/memories/lab_boomers.jpeg" alt="First map" style="width: 750px; height: auto;"><br><br>
+
+
 ##### Feb 2025: Lab outing to an escape room.
 This month, we decided to visit an escape room together. Due to fantastic teamwork, we escaped within time!<br>
 <img class="img-fluid" src="/lab/static/img/memories/escape_room_solving.jpeg" alt="First map" style="width: 500px; height: auto;">
