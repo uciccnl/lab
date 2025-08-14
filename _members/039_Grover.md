@@ -16,5 +16,5 @@ twitter:
 linkedin: 
 github: 
 orcid:
-description: "My name is Dhriti Grover and I am a 3rd year majoring in Cognitive Science. My research interests lie in how psychological factors shape memory, the neural pathways that underlie it, and how these processes guide individual decision-making. Outside of the lab I love spending time reading, hiking and watching rom coms. "
+description: "My name is Dhriti Grover and I am a 4th year majoring in Cognitive Science. My research interests lie in how psychological factors shape memory, the neural pathways that underlie it, and how these processes guide individual decision-making. Outside of the lab I love spending time reading, hiking and watching rom coms. "
 ---

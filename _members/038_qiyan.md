@@ -16,5 +16,5 @@ twitter:
 linkedin: 
 github: 
 orcid:
-description: "My name is Qiyan Ye, a 4th year majoring in Psychology(B.S.) and Language Science. My current research interests include how aging impacts structure learning and how we encode non-native speech. Outside the lab, I enjoy books from wasps to gothic horror, knitting, and blasting showtunes."
+description: "Qiyan graduated UCI with a major in Psychology(B.S.) and Language Science. Her current research interests include how aging impacts structure learning and how we encode non-native speech. Outside the lab, she enjoy books from wasps to gothic horror, knitting, and blasting showtunes."
 ---

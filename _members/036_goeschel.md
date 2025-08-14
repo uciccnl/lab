@@ -16,6 +16,6 @@ twitter:
 linkedin: aidan-goeschel
 github: aidangoesch
 orcid: 
-description: "My name is Aidan Goeschel, and I’m a 3rd Computer Science major at UCI. My primary research interest lies in developing computational models that represent cognitive processes. These models not only offer potential explanations for certain elements of cognition but also have valuable applications in modern artificial intelligence. Outside of the lab, I enjoy running, reading, and playing guitar."
+description: "My name is Aidan Goeschel, and I’m a 4th year Computer Science major at UCI. My primary research interest lies in developing computational models that represent cognitive processes. These models not only offer potential explanations for certain elements of cognition but also have valuable applications in modern artificial intelligence. Outside of the lab, I enjoy running, reading, and playing guitar."
 ---
 

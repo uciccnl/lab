@@ -16,5 +16,5 @@ twitter:
 linkedin: 
 github: 
 orcid:
-description: "My name is Bryce Wilson, a 2nd year majoring in Cognitive Science with a minor in Management. I am super interested in researching how prior memories affect the decisions we make today! Outside the lab, I love to stay active through club triathlon and spikeball. "
+description: "My name is Bryce Wilson, a 3rd year majoring in Cognitive Science with a minor in Management. I am super interested in researching how prior memories affect the decisions we make today! Outside the lab, I love to stay active through club triathlon and spikeball. "
 ---

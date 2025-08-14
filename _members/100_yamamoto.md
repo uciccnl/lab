@@ -16,6 +16,6 @@ twitter:
 linkedin: 
 github: 
 orcid:
-description: "My name is Ami Yamamoto, an upcoming Junior double majoring in Psychology B.S. and Criminology, Law, and Society. My research interest is anything based on decision making and motivation. 
-I am particularly interested in anger management and emotional control in individuals. I want to understand the difference between people who act upon their emotions and those who do not."
+description: "Ami Yamamoto graduated with a double major in Psychology B.S. and Criminology, Law, and Society. Her research interests are anything based on decision making and motivation. 
+She is particularly interested in anger management and emotional control in individuals, and wants to understand the difference between people who act upon their emotions and those who do not."
 ---
