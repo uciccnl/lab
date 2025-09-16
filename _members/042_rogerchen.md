@@ -10,7 +10,7 @@ pronouns: he/him #personal pronouns
 email: rogerc8 (at) uci.edu #Preferred public email address
 scholar:
 website:
-UCSF:#UCSF Profile ID - Employees only
+UCSF:
 twitter:
 linkedin: rogerchen7
 github: 
