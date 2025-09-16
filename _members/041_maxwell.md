@@ -4,7 +4,7 @@ startdate: 2024-02-01
 enddate:
 # image: /lab/static/img/members/palsule.jpg
 image: /lab/static/img/members/mackenzie.png #365 x 365 pixels, 72 dpi, JPG
-altimage: /lab/static/img/members/mackenzie.jpg #365 x 365 pixels, 72 dpi, JPG
+altimage: /lab/static/img/members/mackenzie.png #365 x 365 pixels, 72 dpi, JPG
 position: Research Assistant
 subsequent:
 pronouns: she/her
