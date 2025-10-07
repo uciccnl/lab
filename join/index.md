@@ -24,7 +24,7 @@ We are looking to recruit a graduate researcher this coming application cycle.
 If you're interested in working in <a href="lab/index.html">the lab</a>, please send me a <b>brief</b> (~2 paragraph) message describing your research experience and interests.
 Include a CV and email addresses of up to three references.
 <br/>&nbsp;<br/>
-You can apply via the <a href="https://www.cogsci.uci.edu/graduate/">Cognitive Sciences graduate program</a> (deadline <b>December 1st, 2024</b>)
+You can apply via the <a href="https://www.cogsci.uci.edu/graduate/">Cognitive Sciences graduate program</a> (deadline <b>December 1st, 2025</b>)
     or the <a href="https://mstp.uci.edu/">Medical Scientist Training Program</a>.
     Note: While I cannot serve as a primary advisor for any graduate program other than Cognitive Sciences, I am open to discussing plans for collaboration with faculty in your target department.
     Please name them in your introduction email.
