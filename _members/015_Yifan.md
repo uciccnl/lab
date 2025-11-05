@@ -1,8 +1,8 @@
 ---
 name: Yifan Zhang
 startdate: 2025-09-22
-enddate: 20??-??-??
-image: /lab/static/img/members/Yifan.jpg #365 x 365 pixels, 72 dpi
+#enddate: 20??-??-??
+image: /lab/static/img/members/Yifan_andCats.jpg #365 x 365 pixels, 72 dpi
 altimage: /lab/static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: First Year Graduate Student
 #subsequent:  update once you become an alumnus
