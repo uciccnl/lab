@@ -13,7 +13,7 @@ scholar:
 website:
 UCSF:
 twitter: 
-linkedin: 
+linkedin: rohin-palsule
 github: RohinPalsule
 orcid:
 description: "Rohin graduated from UCI with a degree in Cognitive Science (B.S.) where he was originally a research assistant under Dr. Aaron Bornstein, Dr. Nia Nixon, and Dr. Susanne Jaeggi. After graduation, Rohin continues his work in the CCNL, now as the lab manager, where he researches how episodic memory can be stored in different graph-structured associative networks, and how those networks impact decision-making. Besides his research, he enjoys bouldering, playing soccer, and trying new local restaurants/coffee shops."
