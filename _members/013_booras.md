@@ -5,7 +5,7 @@ enddate:
 image: /lab/static/img/members/booras.jpeg #365 x 365 pixels, 72 dpi, JPG
 # image: /lab/static/img/members/ghibli_alexa.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/booras.jpeg #365 x 365 pixels, 72 dpi, JPG
-position: 2nd year graduate student
+position: 3rd year graduate student
 subsequent:
 pronouns: she/her
 email:  #angelika.arada (at) ucsf.edu
