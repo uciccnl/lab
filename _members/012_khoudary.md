@@ -5,7 +5,7 @@ enddate:
 image: /lab/static/img/members/khoudary.jpeg #365 x 365 pixels, 72 dpi, JPG
 # image: /lab/static/img/members/ghibli_ari.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/khoudary.jpeg #365 x 365 pixels, 72 dpi, JPG
-position: 4th year graduate student
+position: 5th year graduate student
 subsequent:
 pronouns: they/them
 email:  ari.khoudary (at) uci.edu
