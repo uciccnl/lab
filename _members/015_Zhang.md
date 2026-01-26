@@ -8,7 +8,7 @@ position: First Year Graduate Student
 #subsequent:  update once you become an alumnus
 pronouns: He/Him #personal pronouns
 email: yifaz79@uci.edu #Preferred public email address
-scholar: https://scholar.google.com/citations?user=F1UibmIAAAAJ&hl=en #Google Scholar User ID
+scholar: http://scholar.google.com/citations?user=https://scholar.google.com/citations?user=F1UibmIAAAAJ&hl=en  #Google Scholar User ID
 #website: https://website.com/
 #UCSF: XXXXXXXX #UCSF Profile ID - Employees only
 #twitter: username
