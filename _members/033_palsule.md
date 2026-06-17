@@ -10,7 +10,7 @@ subsequent:
 pronouns: he/him
 email: rapalsul (at) uci.edu
 scholar:
-website:
+website: https://rohinpalsule.github.io/
 UCSF:
 twitter: 
 linkedin: rohin-palsule
