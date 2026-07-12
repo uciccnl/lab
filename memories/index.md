@@ -6,6 +6,11 @@ group: memories
 
 # Memories of CCN Lab<br>
 
+##### June 2026: Lab hike at Newport Back Bay.<br>
+<!-- We went to Boomers and had a lot of fun. <br>  -->
+We ended the school year with a hike around Newport Back Bay.
+<img class="img-fluid" src="/lab/static/img/memories/lab_hike.png" alt="First map" style="width: 750px; height: auto;"><br><br>
+
 ##### Apr 2025: The Great CogSci Bakeoff.<br>
 <!-- We went to Boomers and had a lot of fun. <br>  -->
 Ari, Alexa, and Jungsun participated in the second CogSci Bakeoff! We had fun three weeks, thanks to our leader Ari.
@@ -19,7 +24,6 @@ It's amazing that the beach is only 10 minute drive away.
 ##### Apr 2025: Lab outing to Boomers!<br>
 We went to Boomers and had a lot of fun. <br> 
 <img class="img-fluid" src="/lab/static/img/memories/lab_boomers.jpeg" alt="First map" style="width: 750px; height: auto;"><br><br>
-
 
 ##### Feb 2025: Lab outing to an escape room.
 This month, we decided to visit an escape room together. Due to fantastic teamwork, we escaped within time!<br>
