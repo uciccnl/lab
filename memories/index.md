@@ -9,7 +9,7 @@ group: memories
 ##### June 2026: Lab hike at Newport Back Bay.<br>
 <!-- We went to Boomers and had a lot of fun. <br>  -->
 We ended the school year with a hike around Newport Back Bay.
-<img class="img-fluid" src="/lab/static/img/memories/lab_hike.png" alt="First map" style="width: 750px; height: auto;"><br><br>
+<img class="img-fluid" src="/lab/static/img/memories/lab_hike.jpg" alt="First map" style="width: 750px; height: auto;"><br><br>
 
 ##### Apr 2025: The Great CogSci Bakeoff.<br>
 <!-- We went to Boomers and had a lot of fun. <br>  -->
