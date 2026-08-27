@@ -9,7 +9,7 @@ position: Lab Manager
 subsequent:
 pronouns: he/him
 email: rapalsul (at) uci.edu
-scholar:
+scholar: hi39zBoAAAAJ
 website: https://rohinpalsule.github.io/
 UCSF:
 twitter: 
