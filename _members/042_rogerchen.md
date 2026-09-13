@@ -13,7 +13,7 @@ website:
 UCSF:
 twitter:
 linkedin: rogerchen7
-github: 
-orcid: 
-description: "My name is Roger Chen, and I'm a second year Computer Science & Engineering major at UCI. I'm interested in  computational techniques to model behavior, which I believe have significant potential in numerous fields including cognitive science but also machine learning, robotics, neuroscience, and even healthcare. Outside of my work, I enjoy playing tennis, reading, and catching up with friends."
+github: rogerc-8
+orcid: 0009-0005-7381-5416
+description: "My name is Roger Chen, and I'm a third year Computer Science & Engineering major at UCI. I'm interested in computational modeling, which is powerful not only in cognitive science but all STEM fields including robotics, neuroscience, and healthcare. I love conducting research and learning, even if it's not something I have a lot of experience with. Outside of my work, I enjoy playing tennis, reading, and catching up with friends."
 ---
