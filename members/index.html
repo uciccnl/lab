@@ -218,7 +218,7 @@ group: members
 		{% assign color = "red" %}
 	{% elsif position contains "postdoctoral fellow" %}
 		{% assign color = "darkorange" %}
-	{% elsif position contains "graduate student" %}
+	{% elsif position contains "graduate student" or position contains "phd student" %}
 		{% assign color = "gold" %}
 	{% elsif position contains "staff scientist" or position contains "programmer" %}
 		{% assign color = "green" %}
