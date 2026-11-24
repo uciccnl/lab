@@ -1,7 +1,7 @@
 ---
 name: Dhriti Grover
 startdate: 2024-01-29
-enddate:
+enddate: 2025-08-01
 # image: /lab/static/img/members/palsule.jpg
 image: /lab/static/img/members/grover.jpg #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/grover.jpg #365 x 365 pixels, 72 dpi, JPG

@@ -1,7 +1,7 @@
 ---
 name: Jianle (Shuheng) Guo
 startdate: 2023-05-01
-enddate:
+enddate: 2025-08-01
 image: /lab/static/img/members/jerryguo.jpg
 # image: /lab/static/img/members/ghibli_jerry.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/jerryguo.jpg #365 x 365 pixels, 72 dpi, JPG

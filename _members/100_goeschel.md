@@ -1,7 +1,7 @@
 ---
 name: Aidan Goeschel
 startdate: 2024-04-12
-enddate: 
+enddate: 2025-08-01
 image: /lab/static/img/members/aidan_goeschel.jpeg #365 x 365 pixels, 72 dpi
 # image: /lab/static/img/members/ghibli_aidan.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/aidan_goeschel.jpeg #365 x 365 pixels, 72 dpi

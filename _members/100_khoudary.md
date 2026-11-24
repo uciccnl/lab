@@ -1,7 +1,7 @@
 ---
 name: Ari Khoudary
 startdate: 2021-10-01
-enddate:
+enddate: 2025-08-01
 image: /lab/static/img/members/khoudary.jpeg #365 x 365 pixels, 72 dpi, JPG
 # image: /lab/static/img/members/ghibli_ari.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /lab/static/img/members/khoudary.jpeg #365 x 365 pixels, 72 dpi, JPG
