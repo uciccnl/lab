@@ -1,6 +1,6 @@
 ---
 name: Chopin
-human: "[Jialin](/members/#Jialin%20Li)"
+human: "[Jialin](/lab/members/#Jialin%20Li)"
 adoptiondate: 2021-02-14
 age: 5
 image: /lab/static/img/pets/Chopin.jpg
