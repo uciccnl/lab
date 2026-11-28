@@ -12,11 +12,11 @@ email:  ari.khoudary (at) uci.edu
 scholar: https://scholar.google.com/citations?user=1KlIO8EAAAAJ&hl
 website: https://ari-khoudary.github.io/
 UCSF:
-twitter: ari_khoudary
-linkedin: ari-khoudary
+twitter:
+linkedin:
 github: ari-khoudary
 orcid: 0000-0002-1339-2600
-description: "Ari received their PhD in 2026! Ari earned a B.S. in Psychology with a second major in Philosophy from Boston College where they worked with [Maureen Ritchey](http://www.thememolab.org/) on reality monitoring in episodic memory. Ari then worked at Duke University, where they researched autobiographical memory and counterfactual thinking with [Felipe De Brigard](https://imclab.org). While at Duke, Ari also served as Program Coordinator for the [Summer Seminars in Neuroscience and Philosophy](https://ssnap.net).
+description: "Ari received their PhD in 2026! They are now a [MindCORE Postdoctoral Fellow](https://mindcore.sas.upenn.edu/) at the University of Pennsylvania, where they work with [Joe Kable](https://psychology.sas.upenn.edu/people/joseph-kable) and [Josh Gold](https://www.med.upenn.edu/apps/faculty/index.php/g293/p843) to identify the neural and computational processes supporting adaptive behavior in dynamic and uncertain environments.
 
-At UCI, Ari was co-advised by Aaron Bornstein and [Megan Peters](https://faculty.sites.uci.edu/cnclab/). Their dissertation combined computational modeling, human behavior, and philosophy to study how humans adaptively use past experiences to reduce uncertainty about the present. Ari is now a [MindCORE Postdoctoral Fellow](https://mindcore.sas.upenn.edu/) at the University of Pennsylvania, where they collaborate with [Joe Kable](https://psychology.sas.upenn.edu/people/joseph-kable) and [Josh Gold](https://www.med.upenn.edu/apps/faculty/index.php/g293/p843)."
+At UCI, Ari was co-advised by Aaron Bornstein and [Megan Peters](https://faculty.sites.uci.edu/cnclab/). Their dissertation combined computational modeling, human behavior, and philosophy to study how humans adaptively use past experiences to reduce uncertainty about the present. Ari earned a B.S. in Psychology with a second major in Philosophy from Boston College where they worked with [Maureen Ritchey](http://www.thememolab.org/) on reality monitoring in episodic memory. Ari then worked at Duke University, where they researched autobiographical memory and counterfactual thinking with [Felipe De Brigard](https://imclab.org). While at Duke, Ari also served as Program Coordinator for the [Summer Seminars in Neuroscience and Philosophy](https://ssnap.net)."
 ---
